@@ -1,0 +1,49 @@
+[
+  {
+        "case_id": "TEST:05050",
+        "diagnosis_name": "Basal cell carcinoma",
+        "diagnosis_id": "AIP:0000733",
+        "differential": [
+            "AIP:0001341"
+        ],
+        "evidence": {
+            "body_location": [
+                "outer_nose"
+            ],
+            "age": "seniors_60+",
+            "gender": "female"
+        },
+        "image_id": "05050a.jpg"
+  },
+  {
+        "case_id": "TEST:05051",
+        "diagnosis_name": "Squamous Cell Carcinoma",
+        "diagnosis_id": "AIP:0000734",
+        "differential": [
+            "AIP:0001341",
+            "AIP:0000303"
+        ],
+        "evidence": {
+            "body_location": [
+                "arm"
+            ],
+            "age": "seniors_60+",
+            "gender": "female"
+        },
+        "image_id": "05051a.jpg"
+  },
+  {
+        "case_id": "TEST:05098",
+        "diagnosis_name": "Hypertrophic scar",
+        "diagnosis_id": "AIP:0001839",
+        "differential": [],
+        "evidence": {
+            "body_location": [
+                "thorax"
+            ],
+            "age": "adults_40_49",
+            "gender": "male"
+        },
+        "image_id": "05098a.jpg"
+  }
+]

@@ -1,0 +1,1062 @@
+[
+  {
+    "id": 3031741,
+    "width": 300,
+    "height": 375,
+    "tags": [
+      "age:35",
+      "body-location:arm",
+      "derm117-top1:not-skin",
+      "derm117-top2:healthy-skin",
+      "derm117-top3:4_BVG",
+      "derm117-top4:37_PITR",
+      "derm117-top4:42_GRAN",
+      "derm117-top5:14_SCC",
+      "derm124-top1:117_HYPO",
+      "derm124-top2:124_BITE",
+      "derm124-top3:28_HERP",
+      "derm124-top4:119_BRUI",
+      "derm124-top5:107_MORP",
+      "derm133-top1:non-cicatricial-alopecia",
+      "derm133-top2:invasive-cutaneous-squamous-cell-carcinoma",
+      "derm133-top3:vitiligo",
+      "derm133-top4:warts-nonspecific",
+      "derm133-top5:contact-dermatitis",
+      "lab:not-square",
+      "model:derm117",
+      "model:derm124",
+      "model:derm133",
+      "name:cat",
+      "sex:female"
+    ],
+    "timestamp": "2018-10-31T11:11:37.000Z",
+    "filename": "00000_cat/437976fa_566f_4c53_9d74_45cbfb0201a6_cat_jpg-3031741.jpg",
+    "storage_key": "1ZnWwG5vacQmbcah8MTx48fb",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56583,
+    "width": 360,
+    "height": 530,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-22T21:13:36.938Z",
+    "filename": "00000_cat/image56583-56583.jpg",
+    "storage_key": "NqFDvKUgUEnR4bWB7d55ThxF",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56585,
+    "width": 500,
+    "height": 375,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-22T21:13:38.788Z",
+    "filename": "00000_cat/image56585-56585.jpg",
+    "storage_key": "BCDMvBVYFMeHntr9DU2LCSQG",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56570,
+    "width": 500,
+    "height": 333,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-22T21:13:22.724Z",
+    "filename": "00000_cat/image56570-56570.jpg",
+    "storage_key": "Vi1gYLBhz1vLGUNUzmd4eLWD",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56567,
+    "width": 500,
+    "height": 333,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-22T21:13:19.373Z",
+    "filename": "00000_cat/image56567-56567.jpg",
+    "storage_key": "uoPBqCBDst2JVK4tP6Z2H2yP",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56669,
+    "width": 300,
+    "height": 302,
+    "tags": [
+      "lab:not-square",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-30T19:07:59.153Z",
+    "filename": "00000_cat/image56669-56669.jpg",
+    "storage_key": "bsehJAhXsyvSxWJwFr2jFD5u",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56575,
+    "width": 1024,
+    "height": 1534,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-22T21:13:28.256Z",
+    "filename": "00000_cat/image56575-56575.jpg",
+    "storage_key": "Wz6DVDn4uJS4yfCuZrG6GpNk",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56663,
+    "width": 300,
+    "height": 200,
+    "tags": [
+      "lab:not-square",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-30T19:07:53.278Z",
+    "filename": "00000_cat/image56663-56663.jpg",
+    "storage_key": "NFfqkS8MkNMN6hafUtZXKYVY",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56628,
+    "width": 500,
+    "height": 375,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-22T21:14:22.185Z",
+    "filename": "00000_cat/image56628-56628.jpg",
+    "storage_key": "Tv4AyDoipRD6xmqpmqK12g9T",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 4209233,
+    "width": 300,
+    "height": 200,
+    "tags": [
+      "lab:not-square",
+      "name:cat"
+    ],
+    "timestamp": "2019-04-01T21:25:55.296Z",
+    "filename": "00000_cat/cat_4-4209233.jpg",
+    "storage_key": "8BvCQ4AwxhxSaPVfEWUFUtxY",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56580,
+    "width": 480,
+    "height": 361,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-22T21:13:34.156Z",
+    "filename": "00000_cat/image56580-56580.jpg",
+    "storage_key": "N2YScYDxYzeCzar78EeKbirn",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 4209243,
+    "width": 300,
+    "height": 218,
+    "tags": [
+      "lab:not-square",
+      "name:cat"
+    ],
+    "timestamp": "2019-04-01T21:26:04.302Z",
+    "filename": "00000_cat/cat_3-4209243.jpg",
+    "storage_key": "BNMdN9wL2WYXkdnfA6G6LnyR",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56665,
+    "width": 300,
+    "height": 225,
+    "tags": [
+      "lab:not-square",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-30T19:07:55.121Z",
+    "filename": "00000_cat/image56665-56665.jpg",
+    "storage_key": "n55tNiAyxiqPqWwKchDG5MDF",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56577,
+    "width": 361,
+    "height": 500,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-22T21:13:30.578Z",
+    "filename": "00000_cat/image56577-56577.jpg",
+    "storage_key": "tmFTCFn5wVr7gCWfr2bcEaKX",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56604,
+    "width": 375,
+    "height": 500,
+    "tags": [
+      "lab:not-square",
+      "name:dog"
+    ],
+    "timestamp": "2017-10-22T21:13:57.703Z",
+    "filename": "00001_dog/image56604-56604.jpg",
+    "storage_key": "9jbXm7EGotibJngUvCyZMVYw",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ],
+    "reviews": [
+      {
+        "uncertainty": 100
+      }
+    ]
+  },
+  {
+    "id": 56606,
+    "width": 500,
+    "height": 376,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:dog"
+    ],
+    "timestamp": "2017-10-22T21:13:59.551Z",
+    "filename": "00001_dog/image56606-56606.jpg",
+    "storage_key": "uaqKWhfy3GE7cvFRWRbD2dWe",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56692,
+    "width": 227,
+    "height": 227,
+    "tags": [
+      "name:dog"
+    ],
+    "crop": [
+      38,
+      0,
+      227,
+      227
+    ],
+    "timestamp": "2017-10-30T19:11:24.859Z",
+    "filename": "00001_dog/image56692-56692.jpg",
+    "storage_key": "NqnqQDGgTH9QYgEmu6xwyTkL",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56611,
+    "width": 269,
+    "height": 269,
+    "tags": [
+      "lab:manual-crop",
+      "name:dog"
+    ],
+    "crop": [
+      15,
+      0,
+      269,
+      269
+    ],
+    "timestamp": "2017-10-22T21:14:04.522Z",
+    "filename": "00001_dog/image56611-56611.jpg",
+    "storage_key": "pdXQZz62QM5qJheZ3HUxy56W",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56610,
+    "width": 300,
+    "height": 300,
+    "tags": [
+      "lab:manual-crop",
+      "name:dog"
+    ],
+    "crop": [
+      0,
+      38,
+      300,
+      300
+    ],
+    "timestamp": "2017-10-22T21:14:03.640Z",
+    "filename": "00001_dog/image56610-56610.jpg",
+    "storage_key": "p4uEXuubAU5JAKWy9ErSRvkE",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56607,
+    "width": 500,
+    "height": 375,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:dog"
+    ],
+    "timestamp": "2017-10-22T21:14:00.517Z",
+    "filename": "00001_dog/image56607-56607.jpg",
+    "storage_key": "2jPzCaLWG8EgpR844zFN7MhG",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 4209239,
+    "width": 300,
+    "height": 200,
+    "tags": [
+      "lab:not-square",
+      "name:dog"
+    ],
+    "timestamp": "2019-04-01T21:26:00.534Z",
+    "filename": "00001_dog/dog_2-4209239.jpg",
+    "storage_key": "ciogBNxUAmvDUgnKk3Bzc5w3",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56609,
+    "width": 500,
+    "height": 377,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:dog"
+    ],
+    "timestamp": "2017-10-22T21:14:02.608Z",
+    "filename": "00001_dog/image56609-56609.jpg",
+    "storage_key": "afgMZX5JQNd6vWgXCmzCTt5J",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56694,
+    "width": 237,
+    "height": 237,
+    "tags": [
+      "name:dog"
+    ],
+    "crop": [
+      32,
+      0,
+      237,
+      237
+    ],
+    "timestamp": "2017-10-30T19:11:27.101Z",
+    "filename": "00001_dog/image56694-56694.jpg",
+    "storage_key": "hL4LJKk54rp8wamkUW73A76D",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56693,
+    "width": 240,
+    "height": 240,
+    "tags": [
+      "name:dog"
+    ],
+    "crop": [
+      30,
+      0,
+      240,
+      240
+    ],
+    "timestamp": "2017-10-30T19:11:26.054Z",
+    "filename": "00001_dog/image56693-56693.jpg",
+    "storage_key": "3cfwEPQKWoYNDFMsJmv44qP5",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56688,
+    "width": 300,
+    "height": 201,
+    "tags": [
+      "lab:not-square",
+      "name:dog"
+    ],
+    "timestamp": "2017-10-30T19:11:20.718Z",
+    "filename": "00001_dog/image56688-56688.jpg",
+    "storage_key": "KKPo3PFkyZna1iNDxfvC3LwQ",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56614,
+    "width": 500,
+    "height": 395,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:dog"
+    ],
+    "timestamp": "2017-10-22T21:14:07.446Z",
+    "filename": "00001_dog/image56614-56614.jpg",
+    "storage_key": "FmjFQzUxfXJM9crEpY47yory",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56704,
+    "width": 300,
+    "height": 300,
+    "tags": [
+      "name:koala"
+    ],
+    "crop": [
+      0,
+      61,
+      300,
+      300
+    ],
+    "timestamp": "2017-10-30T19:11:36.995Z",
+    "filename": "00002_koala/image56704-56704.jpg",
+    "storage_key": "wkF6tDVtgndaFLicHDeJKifz",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56633,
+    "width": 300,
+    "height": 300,
+    "tags": [
+      "lab:manual-crop",
+      "name:koala"
+    ],
+    "crop": [
+      0,
+      50,
+      300,
+      300
+    ],
+    "timestamp": "2017-10-22T21:14:27.095Z",
+    "filename": "00002_koala/image56633-56633.jpg",
+    "storage_key": "3V83FJjFtDqWVMpJ7v9NLqLo",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56705,
+    "width": 269,
+    "height": 269,
+    "tags": [
+      "name:koala"
+    ],
+    "crop": [
+      15,
+      0,
+      269,
+      269
+    ],
+    "timestamp": "2017-10-30T19:11:37.966Z",
+    "filename": "00002_koala/image56705-56705.jpg",
+    "storage_key": "bubGFE84k2d2q4k98SxLhTPL",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56629,
+    "width": 357,
+    "height": 500,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:koala"
+    ],
+    "timestamp": "2017-10-22T21:14:23.279Z",
+    "filename": "00002_koala/image56629-56629.jpg",
+    "storage_key": "KQVVsWmDTt5E7ycX4WzLVQy5",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56632,
+    "width": 230,
+    "height": 230,
+    "tags": [
+      "lab:manual-crop",
+      "name:koala"
+    ],
+    "crop": [
+      36,
+      0,
+      230,
+      230
+    ],
+    "timestamp": "2017-10-22T21:14:26.121Z",
+    "filename": "00002_koala/image56632-56632.jpg",
+    "storage_key": "136fSmPwG23Luh3J9dLoVMfG",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56635,
+    "width": 400,
+    "height": 500,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:koala"
+    ],
+    "timestamp": "2017-10-22T21:14:29.061Z",
+    "filename": "00002_koala/image56635-56635.jpg",
+    "storage_key": "pMXn11idR7mcnrsk1sguonQz",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56627,
+    "width": 401,
+    "height": 500,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:koala"
+    ],
+    "timestamp": "2017-10-22T21:14:21.126Z",
+    "filename": "00002_koala/image56627-56627.jpg",
+    "storage_key": "cE9cYkKTwB63Bz8Ym4MJNFHH",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56702,
+    "width": 299,
+    "height": 299,
+    "tags": [
+      "name:koala"
+    ],
+    "crop": [
+      0,
+      37,
+      299,
+      299
+    ],
+    "timestamp": "2017-10-30T19:11:35.049Z",
+    "filename": "00002_koala/image56702-56702.jpg",
+    "storage_key": "fsb8x5YVPs5ro8HAWDpsVyiz",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56630,
+    "width": 500,
+    "height": 449,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:koala"
+    ],
+    "timestamp": "2017-10-22T21:14:24.266Z",
+    "filename": "00002_koala/image56630-56630.jpg",
+    "storage_key": "FcxPtTG43NR6znDDV6YYumQF",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56706,
+    "width": 254,
+    "height": 254,
+    "tags": [
+      "name:koala"
+    ],
+    "crop": [
+      23,
+      0,
+      254,
+      254
+    ],
+    "timestamp": "2017-10-30T19:11:39.052Z",
+    "filename": "00002_koala/image56706-56706.jpg",
+    "storage_key": "5BS4LpP2SoTjzhuxh7Knr6Xs",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56696,
+    "width": 225,
+    "height": 225,
+    "tags": [
+      "name:kangaroo"
+    ],
+    "crop": [
+      38,
+      0,
+      225,
+      225
+    ],
+    "timestamp": "2017-10-30T19:11:29.077Z",
+    "filename": "00003_kangaroo/image56696-56696.jpg",
+    "storage_key": "p5kB2LutgzeG7RxGKpaYHJZJ",
+    "dictionary": {
+      "class_index": 3,
+      "class_name": "kangaroo"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56699,
+    "width": 300,
+    "height": 300,
+    "tags": [
+      "name:kangaroo"
+    ],
+    "crop": [
+      0,
+      50,
+      300,
+      300
+    ],
+    "timestamp": "2017-10-30T19:11:32.027Z",
+    "filename": "00003_kangaroo/image56699-56699.jpg",
+    "storage_key": "7hFHfaqRLGTPixcEaNHheVQP",
+    "dictionary": {
+      "class_index": 3,
+      "class_name": "kangaroo"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56697,
+    "width": 225,
+    "height": 225,
+    "tags": [
+      "name:kangaroo"
+    ],
+    "crop": [
+      38,
+      0,
+      225,
+      225
+    ],
+    "timestamp": "2017-10-30T19:11:30.004Z",
+    "filename": "00003_kangaroo/image56697-56697.jpg",
+    "storage_key": "F2isxDbEuSfegrWaNyomRny3",
+    "dictionary": {
+      "class_index": 3,
+      "class_name": "kangaroo"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56701,
+    "width": 248,
+    "height": 248,
+    "tags": [
+      "name:kangaroo"
+    ],
+    "crop": [
+      27,
+      0,
+      248,
+      248
+    ],
+    "timestamp": "2017-10-30T19:11:34.026Z",
+    "filename": "00003_kangaroo/image56701-56701.jpg",
+    "storage_key": "mSGCufzkxKV3bs1t1E6rzpzA",
+    "dictionary": {
+      "class_index": 3,
+      "class_name": "kangaroo"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56695,
+    "width": 225,
+    "height": 225,
+    "tags": [
+      "name:kangaroo"
+    ],
+    "crop": [
+      38,
+      0,
+      225,
+      225
+    ],
+    "timestamp": "2017-10-30T19:11:28.177Z",
+    "filename": "00003_kangaroo/image56695-56695.jpg",
+    "storage_key": "odhBdQ9coNGcv2wPViVmu1sH",
+    "dictionary": {
+      "class_index": 3,
+      "class_name": "kangaroo"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56700,
+    "width": 230,
+    "height": 230,
+    "tags": [
+      "name:kangaroo"
+    ],
+    "crop": [
+      35,
+      0,
+      230,
+      230
+    ],
+    "timestamp": "2017-10-30T19:11:33.057Z",
+    "filename": "00003_kangaroo/image56700-56700.jpg",
+    "storage_key": "soY1W1rh9Rb8FBBWe3us7s5A",
+    "dictionary": {
+      "class_index": 3,
+      "class_name": "kangaroo"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56622,
+    "width": 215,
+    "height": 215,
+    "tags": [
+      "lab:manual-crop",
+      "name:kangaroo"
+    ],
+    "crop": [
+      44,
+      0,
+      215,
+      215
+    ],
+    "timestamp": "2017-10-22T21:14:15.636Z",
+    "filename": "00003_kangaroo/image56622-56622.jpg",
+    "storage_key": "wYnZ91iA9f5jgbwxHukb6X3Q",
+    "dictionary": {
+      "class_index": 3,
+      "class_name": "kangaroo"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56619,
+    "width": 300,
+    "height": 300,
+    "tags": [
+      "lab:manual-crop",
+      "name:kangaroo"
+    ],
+    "crop": [
+      0,
+      55,
+      300,
+      300
+    ],
+    "timestamp": "2017-10-22T21:14:12.613Z",
+    "filename": "00003_kangaroo/image56619-56619.jpg",
+    "storage_key": "zR2ZNsiAAZunE9W5zz6fp2Qm",
+    "dictionary": {
+      "class_index": 3,
+      "class_name": "kangaroo"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56563,
+    "width": 500,
+    "height": 456,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:goose"
+    ],
+    "timestamp": "2017-10-22T21:13:15.043Z",
+    "filename": "00004_goose/image56563-56563.jpg",
+    "storage_key": "4W4f5BixDU5RH2iskzhXwhuH",
+    "dictionary": {
+      "class_index": 4,
+      "class_name": "goose"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56557,
+    "width": 500,
+    "height": 375,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:goose"
+    ],
+    "timestamp": "2017-10-22T21:13:08.602Z",
+    "filename": "00004_goose/image56557-56557.jpg",
+    "storage_key": "6KhfZDjQEH4Cu7FVXDcsBv2a",
+    "dictionary": {
+      "class_index": 4,
+      "class_name": "goose"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56556,
+    "width": 500,
+    "height": 486,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:goose"
+    ],
+    "timestamp": "2017-10-22T21:13:07.658Z",
+    "filename": "00004_goose/image56556-56556.jpg",
+    "storage_key": "fhekbeJqehdtk3yUsikgnmhy",
+    "dictionary": {
+      "class_index": 4,
+      "class_name": "goose"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56559,
+    "width": 400,
+    "height": 500,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:goose"
+    ],
+    "timestamp": "2017-10-22T21:13:10.583Z",
+    "filename": "00004_goose/image56559-56559.jpg",
+    "storage_key": "X9fqhct6mbEFSu5RX7fYdLsL",
+    "dictionary": {
+      "class_index": 4,
+      "class_name": "goose"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -e
+(
+cd tests
+
+wget https://test-fixtures.fra1.digitaloceanspaces.com/ai-studio/tests/fixtures.zip
+unzip -q -o fixtures.zip
+rm fixtures.zip
+)
+
+(
+cd tests/evaluation/keras/
+
+wget https://test-fixtures.fra1.digitaloceanspaces.com/ai-studio/tests/evaluation/keras/tmp.zip
+unzip -q -o tmp.zip
+rm tmp.zip
+)

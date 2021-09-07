@@ -1,0 +1,2508 @@
+[
+    {
+        "class_index": 0,
+        "condition_id": [
+            "AIP:0100060",
+            "AIP:002471d"
+        ],
+        "condition_name": [
+            "acne scarring",
+            "acne-vulgaris-scarring"
+        ],
+        "diagnosis_id": "AIP:0100060",
+        "diagnosis_name": "acne scarring",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 1,
+        "condition_id": [
+            "AIP:0003528",
+            "AIP:0100073",
+            "AIP:0002481",
+            "AIP:0002478",
+            "AIP:0002480",
+            "AIP:0100185",
+            "AIP:0001379"
+        ],
+        "condition_name": [
+            "acne variant",
+            "acne keloidalis",
+            "follicular occlusion tetrad",
+            "acne fulminans",
+            "acne conglobata",
+            "acne necrotica",
+            "acne mechanica"
+        ],
+        "diagnosis_id": "AIP:0003528",
+        "diagnosis_name": "acne variant",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 2,
+        "condition_id": [
+            "AIP:0002471",
+            "AIP:0003536",
+            "AIP:002471a",
+            "AIP:0002474"
+        ],
+        "condition_name": [
+            "acne vulgaris",
+            "inflammatory acne",
+            "acne-vulgaris-discrete-lesions",
+            "open comedone acne"
+        ],
+        "diagnosis_id": "AIP:0002471",
+        "diagnosis_name": "acne vulgaris",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 3,
+        "condition_id": [
+            "AIP:0002475",
+            "AIP:0001382",
+            "AIP:0100048",
+            "AIP:0001380",
+            "AIP:0100222",
+            "AIP:0001383",
+            "AIP:0001376",
+            "AIP:0100058"
+        ],
+        "condition_name": [
+            "acneiform eruption",
+            "iododerma",
+            "pomade acne",
+            "acne cosmetica",
+            "acne aestivalis",
+            "bromoderma",
+            "chloracne",
+            "steroid acne"
+        ],
+        "diagnosis_id": "AIP:0002475",
+        "diagnosis_name": "acneiform eruption",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 4,
+        "condition_id": [
+            "AIP:0000396",
+            "AIP:0000397",
+            "AIP:0022223",
+            "AIP:0000398",
+            "AIP:0000399",
+            "AIP:0022215"
+        ],
+        "condition_name": [
+            "actinic keratosis",
+            "hyperkeratotic AK",
+            "bowenoid actinic keratosis",
+            "pigmented AK",
+            "lichenoid AK",
+            "infected actinic keratosis"
+        ],
+        "diagnosis_id": "AIP:0000396",
+        "diagnosis_name": "actinic keratosis",
+        "malignancy": "malignant"
+    },
+    {
+        "class_index": 5,
+        "condition_id": [
+            "AIP:0000510"
+        ],
+        "condition_name": [
+            "asteototic eczema"
+        ],
+        "diagnosis_id": "AIP:0000510",
+        "diagnosis_name": "asteototic eczema",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 6,
+        "condition_id": [
+            "AIP:0000122",
+            "AIP:000122o",
+            "AIP:000122k",
+            "AIP:000122m",
+            "AIP:0000489",
+            "AIP:000122g",
+            "AIP:0100041",
+            "AIP:000122i",
+            "AIP:000122n",
+            "AIP:000122f",
+            "AIP:0000488"
+        ],
+        "condition_name": [
+            "atopic dermatitis",
+            "atopic-eczema-of-feet-2",
+            "pompholyx-eczema-palms",
+            "lichenified-atopic-eczema-of-feet",
+            "childhood atopic dermatitis",
+            "atopic-eczema-age:adulthood-onset",
+            "flexural eczema",
+            "atopic-eczema-lower-legs",
+            "atopic-eczema-of-feet-1",
+            "atopic-eczema",
+            "infantile atopic dermatitis"
+        ],
+        "diagnosis_id": "AIP:0000122",
+        "diagnosis_name": "atopic dermatitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 7,
+        "condition_id": [
+            "AIP:0000970",
+            "AIP:0000975",
+            "AIP:0000983",
+            "AIP:0000972",
+            "AIP:0000980",
+            "AIP:0000959",
+            "AIP:0000982",
+            "AIP:0000977",
+            "AIP:0000988",
+            "AIP:0000979",
+            "AIP:0000971",
+            "AIP:0088888",
+            "AIP:0100064",
+            "AIP:0000974",
+            "AIP:0001662",
+            "AIP:0001726",
+            "AIP:0022302",
+            "AIP:0000973",
+            "AIP:0000976"
+        ],
+        "condition_name": [
+            "atypical melanocytic proliferation and cannot rule out melanoma",
+            "acral lentiginous melanoma",
+            "conjunctival melanoma",
+            "superficial spreading melanoma",
+            "desmoplastic melanoma",
+            "atypical melanocytic nevus",
+            "ocular melanoma",
+            "amelanotic melanoma",
+            "mucosal melanoma",
+            "spitzoid melanoma",
+            "primary cutaneous melanoma",
+            "nevus incipiens",
+            "lentigo maligna",
+            "lentigo maligna melanoma",
+            "melanoma of the nail",
+            "oral melanoma",
+            "melanoma scar",
+            "nodular melanoma",
+            "melanoma variant not otherwise specified"
+        ],
+        "diagnosis_id": "AIP:0000970",
+        "diagnosis_name": "atypical melanocytic proliferation and cannot rule out melanoma",
+        "malignancy": "malignant"
+    },
+    {
+        "class_index": 8,
+        "condition_id": [
+            "AIP:0000733",
+            "AIP:0000767",
+            "AIP:0000769",
+            "AIP:0000770",
+            "AIP:0000768",
+            "AIP:0000765",
+            "AIP:0000766",
+            "AIP:0103003"
+        ],
+        "condition_name": [
+            "basal cell carcinoma",
+            "morpheaform basal cell carcinoma",
+            "basosquamous carcinoma",
+            "micronodular basal cell carcinoma",
+            "fibroepithelial basal cell carcinoma",
+            "nodular basal cell carcinoma",
+            "superficial basal cell carcinoma",
+            "cystic basal cell carcinoma"
+        ],
+        "diagnosis_id": "AIP:0000733",
+        "diagnosis_name": "basal cell carcinoma",
+        "malignancy": "malignant"
+    },
+    {
+        "class_index": 9,
+        "condition_id": [
+            "AIP:0022217",
+            "AIP:0002977"
+        ],
+        "condition_name": [
+            "bruise",
+            "ecchymosis"
+        ],
+        "diagnosis_id": "AIP:0022217",
+        "diagnosis_name": "bruise",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 10,
+        "condition_id": [
+            "AIP:0000286",
+            "AIP:0001573",
+            "AIP:0000288"
+        ],
+        "condition_name": [
+            "bullous pemphigoid",
+            "erythrodermic pemphigoid",
+            "drug-induced bullous pemphigoid"
+        ],
+        "diagnosis_id": "AIP:0000286",
+        "diagnosis_name": "bullous pemphigoid",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 11,
+        "condition_id": [
+            "AIP:0011114"
+        ],
+        "condition_name": [
+            "cellulite"
+        ],
+        "diagnosis_id": "AIP:0011114",
+        "diagnosis_name": "cellulite",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 12,
+        "condition_id": [
+            "AIP:0001398",
+            "AIP:0002091"
+        ],
+        "condition_name": [
+            "cellulitis",
+            "bullous cellulitis"
+        ],
+        "diagnosis_id": "AIP:0001398",
+        "diagnosis_name": "cellulitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 13,
+        "condition_id": [
+            "AIP:0100037",
+            "AIP:0000493",
+            "AIP:0000496",
+            "AIP:0100036",
+            "AIP:0001707",
+            "AIP:0001713"
+        ],
+        "condition_name": [
+            "cheilitis",
+            "cheilitis sicca",
+            "angular cheilitis",
+            "plasma cell cheilitis",
+            "actinic cheilitis",
+            "cheilitis glandularis"
+        ],
+        "diagnosis_id": "AIP:0100037",
+        "diagnosis_name": "cheilitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 14,
+        "condition_id": [
+            "AIP:0002373"
+        ],
+        "condition_name": [
+            "chickenpox"
+        ],
+        "diagnosis_id": "AIP:0002373",
+        "diagnosis_name": "chickenpox",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 15,
+        "condition_id": [
+            "AIP:0003512",
+            "AIP:003512e",
+            "AIP:003512b",
+            "AIP:003512c",
+            "AIP:003512f",
+            "AIP:003512d",
+            "AIP:003512a"
+        ],
+        "condition_name": [
+            "chronic plaque psoriasis",
+            "plaque-psoriasis-non-itchy",
+            "plaque-psoriasis-silver-scale",
+            "plaque-psoriasis-bright-red",
+            "plaque-psoriasis-lower-legs",
+            "plaque-psoriasis-single-or-few-plaques",
+            "plaque-psoriasis-multiple-plaques"
+        ],
+        "diagnosis_id": "AIP:0003512",
+        "diagnosis_name": "chronic plaque psoriasis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 16,
+        "condition_id": [
+            "AIP:0001433",
+            "AIP:0001440",
+            "AIP:0001444",
+            "AIP:0001455",
+            "AIP:0001448",
+            "AIP:0001442",
+            "AIP:0001445",
+            "AIP:0001441",
+            "AIP:0100046",
+            "AIP:0001449",
+            "AIP:0001454"
+        ],
+        "condition_name": [
+            "cicatricial alopecia",
+            "classic pseudopelade",
+            "folliculitis decalvans",
+            "traction cicatricial alopecia",
+            "acne neurotica",
+            "alopecia mucinosa",
+            "dissecting cellulitis",
+            "central centrifugal cicatricial alopecia",
+            "alopecia neoplastica",
+            "erosive pustular dermatosis",
+            "tuffted folliculitis"
+        ],
+        "diagnosis_id": "AIP:0001433",
+        "diagnosis_name": "cicatricial alopecia",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 17,
+        "condition_id": [
+            "AIP:0002365"
+        ],
+        "condition_name": [
+            "cold sore"
+        ],
+        "diagnosis_id": "AIP:0002365",
+        "diagnosis_name": "cold sore",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 18,
+        "condition_id": [
+            "AIP:0000942",
+            "AIP:0000943",
+            "AIP:0000945",
+            "AIP:0100160"
+        ],
+        "condition_name": [
+            "common acquired melanocytic nevus",
+            "junctional nevus",
+            "compound nevus",
+            "cockade nevus"
+        ],
+        "diagnosis_id": "AIP:0000942",
+        "diagnosis_name": "common acquired melanocytic nevus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 19,
+        "condition_id": [
+            "AIP:0002349",
+            "AIP:0100009",
+            "AIP:0100008"
+        ],
+        "condition_name": [
+            "condylomata acuminata",
+            "anal warts",
+            "warts genital"
+        ],
+        "diagnosis_id": "AIP:0002349",
+        "diagnosis_name": "condylomata acuminata",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 20,
+        "condition_id": [
+            "AIP:0001341",
+            "AIP:0001358",
+            "AIP:0001356",
+            "AIP:001342b",
+            "AIP:0100215",
+            "AIP:0001336",
+            "AIP:0100240",
+            "AIP:0100163",
+            "AIP:0001338",
+            "AIP:0100229",
+            "AIP:0001342",
+            "AIP:0100195",
+            "AIP:0001351",
+            "AIP:0001364",
+            "AIP:0001340",
+            "AIP:0001407",
+            "AIP:001336f",
+            "AIP:001336b",
+            "AIP:0001416",
+            "AIP:0100226",
+            "AIP:0001344",
+            "AIP:0001366",
+            "AIP:0100241",
+            "AIP:0100190",
+            "AIP:0001354",
+            "AIP:0001365",
+            "AIP:0001353",
+            "AIP:0001348",
+            "AIP:0001346"
+        ],
+        "condition_name": [
+            "contact dermatitis",
+            "asteatotic dermatitis",
+            "irritant reaction irritant contact dermatitis",
+            "irritant-contact-dermatitis-of-hands",
+            "cosmetic fragrance contact dermatitis",
+            "allergic contact dermatitis",
+            "cement dermatitis",
+            "metal dermatitis",
+            "acute contact dermatitis",
+            "coral contact dermatitis",
+            "irritant contact dermatitis",
+            "latex allergy",
+            "baboon syndrome",
+            "frictional irritant contact dermatitis",
+            "autosensitization dermatitis",
+            "plant-based allergic contact dermatitis",
+            "allergic-contact-dermatitis-of-hands",
+            "allergic-contact-dermatitis-chronic",
+            "rhus dermatitis",
+            "poison ivy",
+            "lichenoid allergic contact dermatitis",
+            "immunological subtype contact urticaria",
+            "chromate dermatitis",
+            "shoe allergy",
+            "chronic irritant contact dermatitis",
+            "contact urticaria",
+            "acute irritant contact dermatitis",
+            "photoinduced allergic contact dermatitis",
+            "granulomatous allergic contact dermatitis"
+        ],
+        "diagnosis_id": "AIP:0001341",
+        "diagnosis_name": "contact dermatitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 21,
+        "condition_id": [
+            "AIP:0022209",
+            "AIP:0002931",
+            "AIP:0002933",
+            "AIP:0002930"
+        ],
+        "condition_name": [
+            "corns and calluses",
+            "callus",
+            "soft corn",
+            "corn"
+        ],
+        "diagnosis_id": "AIP:0022209",
+        "diagnosis_name": "corns and calluses",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 22,
+        "condition_id": [
+            "AIP:0000317",
+            "AIP:000317d",
+            "AIP:000317c",
+            "AIP:000317b",
+            "AIP:000317a"
+        ],
+        "condition_name": [
+            "cutaneous candidiasis",
+            "candida-hands",
+            "candida-soles",
+            "candida-nappy-or-diaper",
+            "candida-flexures"
+        ],
+        "diagnosis_id": "AIP:0000317",
+        "diagnosis_name": "cutaneous candidiasis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 23,
+        "condition_id": [
+            "AIP:0003220",
+            "AIP:0003223",
+            "AIP:0003221",
+            "AIP:0003241",
+            "AIP:0003240",
+            "AIP:0003222"
+        ],
+        "condition_name": [
+            "cutaneous small vessel vasculitis",
+            "erythema elevatum diutinum",
+            "henoch-schonlein purpura",
+            "viral small vessel vasculitis",
+            "septic small vessel vasculitis",
+            "acute hemorrhagic edema of infancy"
+        ],
+        "diagnosis_id": "AIP:0003220",
+        "diagnosis_name": "cutaneous small vessel vasculitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 24,
+        "condition_id": [
+            "AIP:0000812",
+            "AIP:0002621",
+            "AIP:0000819",
+            "AIP:0000581",
+            "AIP:0000824",
+            "AIP:0000842",
+            "AIP:0000829",
+            "AIP:0100198",
+            "AIP:0000841",
+            "AIP:0100088",
+            "AIP:0000850",
+            "AIP:0100134",
+            "AIP:0100213",
+            "AIP:0100094",
+            "AIP:0000814",
+            "AIP:0000837",
+            "AIP:0000826",
+            "AIP:0000831",
+            "AIP:0000830",
+            "AIP:0000816"
+        ],
+        "condition_name": [
+            "cyst",
+            "digital mucous cyst",
+            "vellus hair cyst",
+            "steatocystoma multiplex",
+            "dermoid cyst",
+            "pseudocyst of the auricle",
+            "hidrocystoma",
+            "sebaceous cyst",
+            "ganglion",
+            "eruptive vellus hair cysts",
+            "pillonidal cyst",
+            "synovial cyst",
+            "follicular retention cyst",
+            "scrotal cysts",
+            "epidermoid cyst",
+            "median raphe cyst",
+            "ear pit cyst",
+            "apocrine hidrocystoma",
+            "eccrine hidrocystoma",
+            "trichilemmal cyst"
+        ],
+        "diagnosis_id": "AIP:0000812",
+        "diagnosis_name": "cyst",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 25,
+        "condition_id": [
+            "AIP:0100001"
+        ],
+        "condition_name": [
+            "dermal cellular nevus"
+        ],
+        "diagnosis_id": "AIP:0100001",
+        "diagnosis_name": "dermal cellular nevus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 26,
+        "condition_id": [
+            "AIP:0001579"
+        ],
+        "condition_name": [
+            "dermatitis herpetiformis"
+        ],
+        "diagnosis_id": "AIP:0001579",
+        "diagnosis_name": "dermatitis herpetiformis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 27,
+        "condition_id": [
+            "AIP:0001116",
+            "AIP:0001118"
+        ],
+        "condition_name": [
+            "dermatofibroma",
+            "atrophic dermatofibroma"
+        ],
+        "diagnosis_id": "AIP:0001116",
+        "diagnosis_name": "dermatofibroma",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 28,
+        "condition_id": [
+            "AIP:0100021"
+        ],
+        "condition_name": [
+            "desquamation"
+        ],
+        "diagnosis_id": "AIP:0100021",
+        "diagnosis_name": "desquamation",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 29,
+        "condition_id": [
+            "AIP:0001437",
+            "AIP:0001876"
+        ],
+        "condition_name": [
+            "discoid lupus erythematosus",
+            "hypertrophic discoid lupus erythematosus"
+        ],
+        "diagnosis_id": "AIP:0001437",
+        "diagnosis_name": "discoid lupus erythematosus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 30,
+        "condition_id": [
+            "AIP:0003526",
+            "AIP:0003145",
+            "AIP:0003148",
+            "AIP:0103149",
+            "AIP:0000456"
+        ],
+        "condition_name": [
+            "drug eruption",
+            "exanthematous drug eruption",
+            "acute generalized exanthematous pustulosis",
+            "allopurinol hypersensitivity syndrome",
+            "fixed drug eruption"
+        ],
+        "diagnosis_id": "AIP:0003526",
+        "diagnosis_name": "drug eruption",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 31,
+        "condition_id": [
+            "AIP:0000501"
+        ],
+        "condition_name": [
+            "dyshidrotic eczema"
+        ],
+        "diagnosis_id": "AIP:0000501",
+        "diagnosis_name": "dyshidrotic eczema",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 32,
+        "condition_id": [
+            "AIP:0000805",
+            "AIP:0000806",
+            "AIP:0000807"
+        ],
+        "condition_name": [
+            "epidermal nevus",
+            "nevus verrucosus",
+            "nevus unius lateris"
+        ],
+        "diagnosis_id": "AIP:0000805",
+        "diagnosis_name": "epidermal nevus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 33,
+        "condition_id": [
+            "AIP:0001396"
+        ],
+        "condition_name": [
+            "erysipelas"
+        ],
+        "diagnosis_id": "AIP:0001396",
+        "diagnosis_name": "erysipelas",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 34,
+        "condition_id": [
+            "AIP:0000457",
+            "AIP:0003143",
+            "AIP:0003141"
+        ],
+        "condition_name": [
+            "erythema multiforme",
+            "typical erythema multiforme",
+            "erythema multiforme minor"
+        ],
+        "diagnosis_id": "AIP:0000457",
+        "diagnosis_name": "erythema multiforme",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 35,
+        "condition_id": [
+            "AIP:0001267"
+        ],
+        "condition_name": [
+            "erythema nodosum"
+        ],
+        "diagnosis_id": "AIP:0001267",
+        "diagnosis_name": "erythema nodosum",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 36,
+        "condition_id": [
+            "AIP:0100003"
+        ],
+        "condition_name": [
+            "erythrodermic psoriasis"
+        ],
+        "diagnosis_id": "AIP:0100003",
+        "diagnosis_name": "erythrodermic psoriasis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 37,
+        "condition_id": [
+            "AIP:0100004",
+            "AIP:100004b"
+        ],
+        "condition_name": [
+            "flexural psoriasis",
+            "flexural-psoriasis-penile"
+        ],
+        "diagnosis_id": "AIP:0100004",
+        "diagnosis_name": "flexural psoriasis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 38,
+        "condition_id": [
+            "AIP:0002523",
+            "AIP:0002081",
+            "AIP:0002072",
+            "AIP:0100033",
+            "AIP:0100032",
+            "AIP:0100074",
+            "AIP:0002527",
+            "AIP:0002525",
+            "AIP:0002076",
+            "AIP:0002524",
+            "AIP:0002534",
+            "AIP:0002080",
+            "AIP:0002257",
+            "AIP:0002082",
+            "AIP:0100161",
+            "AIP:0002073",
+            "AIP:0100111",
+            "AIP:0002078"
+        ],
+        "condition_name": [
+            "folliculitis",
+            "carbuncle or furuncle",
+            "bacterial folliculitis",
+            "demodicidosis",
+            "rosacea-like democidosis",
+            "folliculitis cheloidalis",
+            "irritant folliculitis",
+            "sycosis lupoid",
+            "pseudomonal folliculitis",
+            "superficial folliculitis",
+            "eosinophilic folliculitis",
+            "furuncle",
+            "pityrosporum folliculitis",
+            "furunculosis",
+            "scalp folliculitis",
+            "staphylococcal folliculitis",
+            "superficial folliculitis caused by bacterium",
+            "sycosis barbae"
+        ],
+        "diagnosis_id": "AIP:0002523",
+        "diagnosis_name": "folliculitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 39,
+        "condition_id": [
+            "AIP:0000303"
+        ],
+        "condition_name": [
+            "friction blisters"
+        ],
+        "diagnosis_id": "AIP:0000303",
+        "diagnosis_name": "friction blisters",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 40,
+        "condition_id": [
+            "AIP:0002367"
+        ],
+        "condition_name": [
+            "genital herpes"
+        ],
+        "diagnosis_id": "AIP:0002367",
+        "diagnosis_name": "genital herpes",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 41,
+        "condition_id": [
+            "AIP:0001667"
+        ],
+        "condition_name": [
+            "geographic tongue"
+        ],
+        "diagnosis_id": "AIP:0001667",
+        "diagnosis_name": "geographic tongue",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 42,
+        "condition_id": [
+            "AIP:0002673",
+            "AIP:0002681",
+            "AIP:0002686"
+        ],
+        "condition_name": [
+            "gout",
+            "gout by the overproduction of uric acid",
+            "chronic tophaceous gout"
+        ],
+        "diagnosis_id": "AIP:0002673",
+        "diagnosis_name": "gout",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 43,
+        "condition_id": [
+            "AIP:0003044",
+            "AIP:0003056",
+            "AIP:003044b",
+            "AIP:003044e",
+            "AIP:0003055"
+        ],
+        "condition_name": [
+            "granuloma annulare",
+            "perforating granuloma annulare",
+            "granuloma-annulare-annular-shape",
+            "granuloma-annulare-of-hands",
+            "generalized granuloma annulare"
+        ],
+        "diagnosis_id": "AIP:0003044",
+        "diagnosis_name": "granuloma annulare",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 44,
+        "condition_id": [
+            "AIP:0003513"
+        ],
+        "condition_name": [
+            "guttate psoriasis"
+        ],
+        "diagnosis_id": "AIP:0003513",
+        "diagnosis_name": "guttate psoriasis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 45,
+        "condition_id": [
+            "AIP:0000065"
+        ],
+        "condition_name": [
+            "hailey-hailey disease"
+        ],
+        "diagnosis_id": "AIP:0000065",
+        "diagnosis_name": "hailey-hailey disease",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 46,
+        "condition_id": [
+            "AIP:0000966"
+        ],
+        "condition_name": [
+            "halo nevus"
+        ],
+        "diagnosis_id": "AIP:0000966",
+        "diagnosis_name": "halo nevus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 47,
+        "condition_id": [
+            "AIP:0002385"
+        ],
+        "condition_name": [
+            "hand-foot-and-mouth disease"
+        ],
+        "diagnosis_id": "AIP:0002385",
+        "diagnosis_name": "hand-foot-and-mouth disease",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 48,
+        "condition_id": [
+            "AIP:0100249"
+        ],
+        "condition_name": [
+            "hang nail"
+        ],
+        "diagnosis_id": "AIP:0100249",
+        "diagnosis_name": "hang nail",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 49,
+        "condition_id": [
+            "AIP:0001029"
+        ],
+        "condition_name": [
+            "hemangioma"
+        ],
+        "diagnosis_id": "AIP:0001029",
+        "diagnosis_name": "hemangioma",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 50,
+        "condition_id": [
+            "AIP:0002366"
+        ],
+        "condition_name": [
+            "herpes gladiatorum"
+        ],
+        "diagnosis_id": "AIP:0002366",
+        "diagnosis_name": "herpes gladiatorum",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 51,
+        "condition_id": [
+            "AIP:0002550"
+        ],
+        "condition_name": [
+            "hidradenitis suppurativa"
+        ],
+        "diagnosis_id": "AIP:0002550",
+        "diagnosis_name": "hidradenitis suppurativa",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 52,
+        "condition_id": [
+            "AIP:0003288",
+            "AIP:0003294",
+            "AIP:0000011",
+            "AIP:0000016",
+            "AIP:0000015",
+            "AIP:0000808",
+            "AIP:0003292",
+            "AIP:0000013",
+            "AIP:0022213",
+            "AIP:0003304",
+            "AIP:0003295",
+            "AIP:0000042"
+        ],
+        "condition_name": [
+            "ichthyosis",
+            "lamellar ichthyosis",
+            "x-linked recessive ichthyosis",
+            "epidermolytic ichthyosis",
+            "keratinopathic ichthyosis",
+            "ichthyosis hystrix",
+            "collodion baby",
+            "harlequin ichthyosis",
+            "ichthyosis linearis circumflexa",
+            "comel-netherton syndrome",
+            "congenital ichthyosiform erythroderma",
+            "sjogren-larsson syndrome"
+        ],
+        "diagnosis_id": "AIP:0003288",
+        "diagnosis_name": "ichthyosis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 53,
+        "condition_id": [
+            "AIP:0000010"
+        ],
+        "condition_name": [
+            "ichthyosis vulgaris"
+        ],
+        "diagnosis_id": "AIP:0000010",
+        "diagnosis_name": "ichthyosis vulgaris",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 54,
+        "condition_id": [
+            "AIP:0002066",
+            "AIP:0002069",
+            "AIP:0002084",
+            "AIP:0002070"
+        ],
+        "condition_name": [
+            "impetigo",
+            "impetigo contagiosa",
+            "ecthyma",
+            "staphylococcal impetigo"
+        ],
+        "diagnosis_id": "AIP:0002066",
+        "diagnosis_name": "impetigo",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 55,
+        "condition_id": [
+            "AIP:0101021",
+            "AIP:0002272"
+        ],
+        "condition_name": [
+            "intertrigo",
+            "candidal intertrigo"
+        ],
+        "diagnosis_id": "AIP:0101021",
+        "diagnosis_name": "intertrigo",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 56,
+        "condition_id": [
+            "AIP:0000739",
+            "AIP:0007000",
+            "AIP:0001708",
+            "AIP:0001747"
+        ],
+        "condition_name": [
+            "invasive cutaneous squamous cell carcinoma",
+            "squamous cell carcinoma intraepidermal",
+            "oral squamous cell carcinoma",
+            "invasive squamous cell carcinoma of the anogenital region"
+        ],
+        "diagnosis_id": "AIP:0000739",
+        "diagnosis_name": "invasive cutaneous squamous cell carcinoma",
+        "malignancy": "malignant"
+    },
+    {
+        "class_index": 57,
+        "condition_id": [
+            "AIP:0001839"
+        ],
+        "condition_name": [
+            "keloid scarring"
+        ],
+        "diagnosis_id": "AIP:0001839",
+        "diagnosis_name": "keloid scarring",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 58,
+        "condition_id": [
+            "AIP:0000745",
+            "AIP:0000755",
+            "AIP:0022220"
+        ],
+        "condition_name": [
+            "keratoacanthoma",
+            "generalized eruptive keratoacanthoma",
+            "perforating keratoacanthoma"
+        ],
+        "diagnosis_id": "AIP:0000745",
+        "diagnosis_name": "keratoacanthoma",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 59,
+        "condition_id": [
+            "AIP:0100152"
+        ],
+        "condition_name": [
+            "keratosis pilaris"
+        ],
+        "diagnosis_id": "AIP:0100152",
+        "diagnosis_name": "keratosis pilaris",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 60,
+        "condition_id": [
+            "AIP:0012929"
+        ],
+        "condition_name": [
+            "laceration"
+        ],
+        "diagnosis_id": "AIP:0012929",
+        "diagnosis_name": "laceration",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 61,
+        "condition_id": [
+            "AIP:0103006",
+            "AIP:0000928",
+            "AIP:0103007",
+            "AIP:0000926"
+        ],
+        "condition_name": [
+            "lentigo",
+            "lentigo simplex",
+            "lentigo-ink-spot",
+            "senile lentigo"
+        ],
+        "diagnosis_id": "AIP:0103006",
+        "diagnosis_name": "lentigo",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 62,
+        "condition_id": [
+            "AIP:0000445",
+            "AIP:0000450",
+            "AIP:0000446",
+            "AIP:0000447",
+            "AIP:0001739",
+            "AIP:000445a",
+            "AIP:0000448",
+            "AIP:0000464",
+            "AIP:0000463",
+            "AIP:0000449",
+            "AIP:0000465",
+            "AIP:0000477",
+            "AIP:0000473",
+            "AIP:0000462",
+            "AIP:0000475",
+            "AIP:0000480",
+            "AIP:000445d",
+            "AIP:0000470",
+            "AIP:0000367"
+        ],
+        "condition_name": [
+            "lichen planus",
+            "ulcerative lichen planus",
+            "annular lichen planus",
+            "bullous lichen planus",
+            "mucosal lichen planus",
+            "lichen-planus-of-scalp",
+            "hypertrophic lichen planus",
+            "atrophic lichen planus",
+            "acute lichen planus",
+            "inverse lichen planus",
+            "lichen planus pemphigoides",
+            "reticular oral lichen planus",
+            "erosive oral lichen planus",
+            "actinic lichen planus",
+            "pigmented oral lichen planus",
+            "vulvovaginal lichen planus",
+            "lichen-planus-of-penis",
+            "oral lichen planus",
+            "linear lichen planus"
+        ],
+        "diagnosis_id": "AIP:0000445",
+        "diagnosis_name": "lichen planus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 63,
+        "condition_id": [
+            "AIP:0000244",
+            "AIP:0001738",
+            "AIP:0001737"
+        ],
+        "condition_name": [
+            "lichen sclerosus",
+            "female type lichen sclerosus",
+            "male type lichen sclerosus"
+        ],
+        "diagnosis_id": "AIP:0000244",
+        "diagnosis_name": "lichen sclerosus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 64,
+        "condition_id": [
+            "AIP:0000128",
+            "AIP:0100156",
+            "AIP:000128b",
+            "AIP:000128c"
+        ],
+        "condition_name": [
+            "lichen simplex chronicus",
+            "neurodermatitis",
+            "lichen-simplex-single-or-few-plaques",
+            "lichen-simplex-adult-onset"
+        ],
+        "diagnosis_id": "AIP:0000128",
+        "diagnosis_name": "lichen simplex chronicus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 65,
+        "condition_id": [
+            "AIP:0000261"
+        ],
+        "condition_name": [
+            "melasma"
+        ],
+        "diagnosis_id": "AIP:0000261",
+        "diagnosis_name": "melasma",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 66,
+        "condition_id": [
+            "AIP:0002581",
+            "AIP:0002583",
+            "AIP:0002582",
+            "AIP:0002586"
+        ],
+        "condition_name": [
+            "miliaria",
+            "miliaria rubra",
+            "miliaria crystallina",
+            "miliaria pustulosa"
+        ],
+        "diagnosis_id": "AIP:0002581",
+        "diagnosis_name": "miliaria",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 67,
+        "condition_id": [
+            "AIP:0000815"
+        ],
+        "condition_name": [
+            "milium"
+        ],
+        "diagnosis_id": "AIP:0000815",
+        "diagnosis_name": "milium",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 68,
+        "condition_id": [
+            "AIP:0002308"
+        ],
+        "condition_name": [
+            "molluscum contagiosum"
+        ],
+        "diagnosis_id": "AIP:0002308",
+        "diagnosis_name": "molluscum contagiosum",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 69,
+        "condition_id": [
+            "AIP:0001917",
+            "AIP:0001922",
+            "AIP:0001918",
+            "AIP:0001928"
+        ],
+        "condition_name": [
+            "morphea",
+            "generalized morphea",
+            "linear morphea",
+            "disabling pansclerotic morphea of children"
+        ],
+        "diagnosis_id": "AIP:0001917",
+        "diagnosis_name": "morphea",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 70,
+        "condition_id": [
+            "AIP:0000461",
+            "AIP:0001230",
+            "AIP:0001237",
+            "AIP:0001236"
+        ],
+        "condition_name": [
+            "mycosis fungoides",
+            "generalized patch stage mycosis fungoides",
+            "granulomatous slack skin",
+            "pagetoid reticulosis, woringer-kolopp type"
+        ],
+        "diagnosis_id": "AIP:0000461",
+        "diagnosis_name": "mycosis fungoides",
+        "malignancy": "malignant"
+    },
+    {
+        "class_index": 71,
+        "condition_id": [
+            "AIP:0001538",
+            "AIP:0001561",
+            "AIP:0001616",
+            "AIP:0001635",
+            "AIP:0001553",
+            "AIP:0001655",
+            "AIP:0100083",
+            "AIP:0100188",
+            "AIP:0001543",
+            "AIP:0001642",
+            "AIP:0001639",
+            "AIP:0100082",
+            "AIP:0001644",
+            "AIP:0001622",
+            "AIP:0001544",
+            "AIP:0001624",
+            "AIP:0001560",
+            "AIP:0001618",
+            "AIP:0001559",
+            "AIP:0001546",
+            "AIP:0001634",
+            "AIP:0001652",
+            "AIP:0100010",
+            "AIP:0100158",
+            "AIP:0001545",
+            "AIP:0001643",
+            "AIP:0001558",
+            "AIP:0001660",
+            "AIP:0001620",
+            "AIP:0001542",
+            "AIP:0100091",
+            "AIP:0001555",
+            "AIP:0100206",
+            "AIP:0001541",
+            "AIP:0001564",
+            "AIP:0001640",
+            "AIP:0001650",
+            "AIP:0001623",
+            "AIP:0001638",
+            "AIP:0001550",
+            "AIP:0001554",
+            "AIP:0001540",
+            "AIP:0100196",
+            "AIP:0001551",
+            "AIP:0001641",
+            "AIP:0001621",
+            "AIP:0100216",
+            "AIP:0100038"
+        ],
+        "condition_name": [
+            "nail disorder",
+            "congenital or hereditary nail disease",
+            "nail abnormality in systemic disease",
+            "brittle nails",
+            "onycholysis",
+            "onychomatricoma",
+            "nail bed ridges",
+            "pterygium inversum unguis",
+            "nail pitting",
+            "onychogryphosis",
+            "onychotillomania",
+            "nail cosmesis",
+            "onychocryptosis",
+            "terrys nails",
+            "onychorrhexis",
+            "half-and-half nails",
+            "green nail syndrome",
+            "nail clubbing",
+            "hutchinsons sign",
+            "true leukonychia",
+            "environmental nail disorder",
+            "subungual exostosis",
+            "twenty nail dystrophy",
+            "nail ridging beading",
+            "trachyonychia",
+            "pincer nails",
+            "longitudinal melanonychia",
+            "squamous cell carcinoma of the nail apparatus",
+            "acquired nail clubbing",
+            "onychomadesis",
+            "infection of nail",
+            "apparent leukonychia",
+            "splinter hemorrhages under nail",
+            "beaus lines",
+            "racquet thumbs",
+            "subungual hematoma",
+            "nail fibroma",
+            "muehrckes nails",
+            "traumatic nail abnormality",
+            "total leukonychia",
+            "onychauxis",
+            "nail sign due to abnormal nail matrix function",
+            "nail discoloration",
+            "koilonychia",
+            "traumatic toenail abnormality",
+            "yellow nail syndrome",
+            "dystrophia mediana canaliformis",
+            "nail shedding"
+        ],
+        "diagnosis_id": "AIP:0001538",
+        "diagnosis_name": "nail disorder",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 72,
+        "condition_id": [
+            "AIP:0100002",
+            "AIP:0022304"
+        ],
+        "condition_name": [
+            "nail psoriasis",
+            "psoriatic nail dystrophy"
+        ],
+        "diagnosis_id": "AIP:0100002",
+        "diagnosis_name": "nail psoriasis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 73,
+        "condition_id": [
+            "AIP:0003061"
+        ],
+        "condition_name": [
+            "necrobiosis lipodica"
+        ],
+        "diagnosis_id": "AIP:0003061",
+        "diagnosis_name": "necrobiosis lipodica",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 74,
+        "condition_id": [
+            "AIP:0000861"
+        ],
+        "condition_name": [
+            "nevus sebaceous"
+        ],
+        "diagnosis_id": "AIP:0000861",
+        "diagnosis_name": "nevus sebaceous",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 75,
+        "condition_id": [
+            "AIP:0001426",
+            "AIP:0001418",
+            "AIP:0100235",
+            "AIP:0001420",
+            "AIP:0001423",
+            "AIP:0001421",
+            "AIP:0001427",
+            "AIP:0001537",
+            "AIP:0001422",
+            "AIP:0001424",
+            "AIP:0001425",
+            "AIP:0001419",
+            "AIP:0001428",
+            "AIP:0001432"
+        ],
+        "condition_name": [
+            "non-cicatricial alopecia",
+            "androgenic alopecia",
+            "marie unna syndrome",
+            "male pattern hair loss",
+            "alopecia areata",
+            "telogen effluvium",
+            "post-operative pressure-induced alopecia",
+            "female androgenic alopecia of male pattern",
+            "trichotillomania",
+            "alopecia totalis",
+            "alopecia universalis",
+            "female pattern hair loss",
+            "temporal triangular alopecia",
+            "congenital atrichia with papules"
+        ],
+        "diagnosis_id": "AIP:0001426",
+        "diagnosis_name": "non-cicatricial alopecia",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 76,
+        "condition_id": [
+            "AIP:0000513"
+        ],
+        "condition_name": [
+            "nummular dermatitis"
+        ],
+        "diagnosis_id": "AIP:0000513",
+        "diagnosis_name": "nummular dermatitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 77,
+        "condition_id": [
+            "AIP:0022203"
+        ],
+        "condition_name": [
+            "oral candidiasis"
+        ],
+        "diagnosis_id": "AIP:0022203",
+        "diagnosis_name": "oral candidiasis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 78,
+        "condition_id": [
+            "AIP:0100255",
+            "AIP:100255c",
+            "AIP:100255b",
+            "AIP:100255e",
+            "AIP:100255d",
+            "AIP:100255a"
+        ],
+        "condition_name": [
+            "palmoplantar-psoriasis",
+            "palmoplantar-psoriasis-dorsum-of-feet",
+            "palmoplantar-psoriasis-palms",
+            "palmoplantar-psoriasis-weight-bearing-area",
+            "palmoplantar-psoriasis-instep",
+            "palmoplantar-psoriasis-dorsum-of-hands"
+        ],
+        "diagnosis_id": "AIP:0100255",
+        "diagnosis_name": "palmoplantar-psoriasis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 79,
+        "condition_id": [
+            "AIP:0022208",
+            "AIP:0001631",
+            "AIP:0001636"
+        ],
+        "condition_name": [
+            "paronychia",
+            "acute paronychia",
+            "chronic paronychia"
+        ],
+        "diagnosis_id": "AIP:0022208",
+        "diagnosis_name": "paronychia",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 80,
+        "condition_id": [
+            "AIP:0000120",
+            "AIP:0002803",
+            "AIP:0100217",
+            "AIP:0002805",
+            "AIP:0002804",
+            "AIP:0100079"
+        ],
+        "condition_name": [
+            "pediculosis",
+            "head lice",
+            "maculae ceruleae",
+            "body lice",
+            "crab lice",
+            "pediculosis palpebrarum"
+        ],
+        "diagnosis_id": "AIP:0000120",
+        "diagnosis_name": "pediculosis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 81,
+        "condition_id": [
+            "AIP:0000269",
+            "AIP:0000273",
+            "AIP:0000271",
+            "AIP:0022221",
+            "AIP:0000270",
+            "AIP:0000274",
+            "AIP:0000277",
+            "AIP:0000283"
+        ],
+        "condition_name": [
+            "pemphigus",
+            "pemphigus vegetans",
+            "pemphigus vulgaris - mucosal dominant",
+            "endemic pemphigus foliaceus",
+            "pemphigus vulgaris",
+            "pemphigus foliaceus",
+            "pemphigus erythmatosus",
+            "subcorneal pustular dermatosis type"
+        ],
+        "diagnosis_id": "AIP:0000269",
+        "diagnosis_name": "pemphigus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 82,
+        "condition_id": [
+            "AIP:0002517"
+        ],
+        "condition_name": [
+            "periorificial dermatitis"
+        ],
+        "diagnosis_id": "AIP:0002517",
+        "diagnosis_name": "periorificial dermatitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 83,
+        "condition_id": [
+            "AIP:0001406",
+            "AIP:0001415",
+            "AIP:0022214"
+        ],
+        "condition_name": [
+            "phototoxic plant reaction dermatitis",
+            "phytophotoallergic contact dermatitis",
+            "meadow dermatitis"
+        ],
+        "diagnosis_id": "AIP:0001406",
+        "diagnosis_name": "phototoxic plant reaction dermatitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 84,
+        "condition_id": [
+            "AIP:0003161",
+            "AIP:0003163",
+            "AIP:0003165",
+            "AIP:0003166",
+            "AIP:0003164",
+            "AIP:0003162"
+        ],
+        "condition_name": [
+            "pigmented purpuric eruption",
+            "purpura annularis telangiectodes of majocchi",
+            "eczematoid-like purpura of doucas and kapetanakis",
+            "lichen aureus",
+            "pigmented purpuritic lichenoid dermatitis of gougerot and blum",
+            "schambergs disease"
+        ],
+        "diagnosis_id": "AIP:0003161",
+        "diagnosis_name": "pigmented purpuric eruption",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 85,
+        "condition_id": [
+            "AIP:0002105"
+        ],
+        "condition_name": [
+            "pitted keratolysis"
+        ],
+        "diagnosis_id": "AIP:0002105",
+        "diagnosis_name": "pitted keratolysis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 86,
+        "condition_id": [
+            "AIP:0000409",
+            "AIP:0000410",
+            "AIP:0100089",
+            "AIP:0000408"
+        ],
+        "condition_name": [
+            "pityriasis lichenoides",
+            "pityriasis lichenoides chronica",
+            "poikiloderma atrophicans vasculare parapsoriasis lichenoide",
+            "piyriasis lichenoides et varioliformis acuta"
+        ],
+        "diagnosis_id": "AIP:0000409",
+        "diagnosis_name": "pityriasis lichenoides",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 87,
+        "condition_id": [
+            "AIP:0000417",
+            "AIP:0000418"
+        ],
+        "condition_name": [
+            "pityriasis rosea",
+            "inverse pityriasis rosea"
+        ],
+        "diagnosis_id": "AIP:0000417",
+        "diagnosis_name": "pityriasis rosea",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 88,
+        "condition_id": [
+            "AIP:0000411"
+        ],
+        "condition_name": [
+            "pityriasis rubra pilaris"
+        ],
+        "diagnosis_id": "AIP:0000411",
+        "diagnosis_name": "pityriasis rubra pilaris",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 89,
+        "condition_id": [
+            "AIP:0000247"
+        ],
+        "condition_name": [
+            "pityriasis versicolor"
+        ],
+        "diagnosis_id": "AIP:0000247",
+        "diagnosis_name": "pityriasis versicolor",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 90,
+        "condition_id": [
+            "AIP:0002872",
+            "AIP:0002874"
+        ],
+        "condition_name": [
+            "polymorphic light eruption",
+            "juvenile spring eruption"
+        ],
+        "diagnosis_id": "AIP:0002872",
+        "diagnosis_name": "polymorphic light eruption",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 91,
+        "condition_id": [
+            "AIP:0000784",
+            "AIP:0000785",
+            "AIP:0000786",
+            "AIP:0000787"
+        ],
+        "condition_name": [
+            "porokeratosis",
+            "porokeratosis of mibelli",
+            "disseminated superficial actinic porokeratosis",
+            "linear porokeratosis"
+        ],
+        "diagnosis_id": "AIP:0000784",
+        "diagnosis_name": "porokeratosis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 92,
+        "condition_id": [
+            "AIP:0100126"
+        ],
+        "condition_name": [
+            "port wine stain of skin"
+        ],
+        "diagnosis_id": "AIP:0100126",
+        "diagnosis_name": "port wine stain of skin",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 93,
+        "condition_id": [
+            "AIP:0000127"
+        ],
+        "condition_name": [
+            "prurigo nodularis"
+        ],
+        "diagnosis_id": "AIP:0000127",
+        "diagnosis_name": "prurigo nodularis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 94,
+        "condition_id": [
+            "AIP:0003069"
+        ],
+        "condition_name": [
+            "pseudofolliculitis barbae"
+        ],
+        "diagnosis_id": "AIP:0003069",
+        "diagnosis_name": "pseudofolliculitis barbae",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 95,
+        "condition_id": [
+            "AIP:0001430",
+            "AIP:001430b"
+        ],
+        "condition_name": [
+            "psoriasis of the scalp",
+            "scalp-psoriasis-with-no-hair-loss"
+        ],
+        "diagnosis_id": "AIP:0001430",
+        "diagnosis_name": "psoriasis of the scalp",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 96,
+        "condition_id": [
+            "AIP:0000692",
+            "AIP:0100169",
+            "AIP:000692d",
+            "AIP:0003516",
+            "AIP:0003515",
+            "AIP:0100054",
+            "AIP:0001614",
+            "AIP:000692c"
+        ],
+        "condition_name": [
+            "pustular psoriasis",
+            "impetigo herpetiformis",
+            "pustular-psoriasis-of-soles",
+            "pustulosis of the palms and soles",
+            "generalised pustular psoriasis",
+            "palmoplantar pustulosis",
+            "acrodermatitis continua of hallopeau",
+            "pustular-psoriasis-of-palms"
+        ],
+        "diagnosis_id": "AIP:0000692",
+        "diagnosis_name": "pustular psoriasis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 97,
+        "condition_id": [
+            "AIP:0000331",
+            "AIP:0003273",
+            "AIP:0003268"
+        ],
+        "condition_name": [
+            "pyoderma gangrenosum",
+            "pyostomatitis vegetans",
+            "ulcerative pyoderma gangrenosum"
+        ],
+        "diagnosis_id": "AIP:0000331",
+        "diagnosis_name": "pyoderma gangrenosum",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 98,
+        "condition_id": [
+            "AIP:0001647"
+        ],
+        "condition_name": [
+            "pyogenic granuloma"
+        ],
+        "diagnosis_id": "AIP:0001647",
+        "diagnosis_name": "pyogenic granuloma",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 99,
+        "condition_id": [
+            "AIP:0002497"
+        ],
+        "condition_name": [
+            "rhinophyma"
+        ],
+        "diagnosis_id": "AIP:0002497",
+        "diagnosis_name": "rhinophyma",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 100,
+        "condition_id": [
+            "AIP:0002492",
+            "AIP:0002513",
+            "AIP:0002494",
+            "AIP:0002514",
+            "AIP:0002511",
+            "AIP:0002515"
+        ],
+        "condition_name": [
+            "rosacea",
+            "blepharophyma",
+            "papulopustular rosacea",
+            "rosacea fulminans",
+            "otophyma",
+            "granulomatous rosacea"
+        ],
+        "diagnosis_id": "AIP:0002492",
+        "diagnosis_name": "rosacea",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 101,
+        "condition_id": [
+            "AIP:0000119",
+            "AIP:000119c",
+            "AIP:000119a",
+            "AIP:000119g",
+            "AIP:000119h",
+            "AIP:000119d",
+            "AIP:000119b",
+            "AIP:000119f",
+            "AIP:0002327",
+            "AIP:000119e"
+        ],
+        "condition_name": [
+            "scabies",
+            "scabies-dorsum-of-hands-wrist",
+            "scabies-crusty-or-excoriated-surface-papules",
+            "scabies-scaly-surface",
+            "scabies-scrotum-pubic-area",
+            "scabies-normal-or-slightly-scaly-surface",
+            "scabies-crusty-or-excoriated-surface-plaques",
+            "scabies-penis",
+            "crusted scabies",
+            "scabies-palms"
+        ],
+        "diagnosis_id": "AIP:0000119",
+        "diagnosis_name": "scabies",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 102,
+        "condition_id": [
+            "AIP:0001902",
+            "AIP:0001906",
+            "AIP:0100110",
+            "AIP:0001908",
+            "AIP:0001909",
+            "AIP:0001903"
+        ],
+        "condition_name": [
+            "scleroderma or related disorder",
+            "CREST syndrome",
+            "sclerodactyly",
+            "eosinophillic fasciitis",
+            "nephrogenic systemic fibrosis",
+            "systemic sclerosis"
+        ],
+        "diagnosis_id": "AIP:0001902",
+        "diagnosis_name": "scleroderma or related disorder",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 103,
+        "condition_id": [
+            "AIP:0000884"
+        ],
+        "condition_name": [
+            "sebaceous gland hyperplasia"
+        ],
+        "diagnosis_id": "AIP:0000884",
+        "diagnosis_name": "sebaceous gland hyperplasia",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 104,
+        "condition_id": [
+            "AIP:0000506",
+            "AIP:0100031",
+            "AIP:0000508",
+            "AIP:000506j",
+            "AIP:0000507",
+            "AIP:000506i"
+        ],
+        "condition_name": [
+            "seborrheic dermatitis",
+            "sebopsoriasis",
+            "adult seborrheic dermatitis",
+            "seborrhoeic-eczema-scalp",
+            "infantile seborrheic dermatitis",
+            "seborrhoeic-eczema-scaling"
+        ],
+        "diagnosis_id": "AIP:0000506",
+        "diagnosis_name": "seborrheic dermatitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 105,
+        "condition_id": [
+            "AIP:0000775",
+            "AIP:0000780",
+            "AIP:0000778",
+            "AIP:0100166"
+        ],
+        "condition_name": [
+            "seborrheic keratosis",
+            "inflamed seborrheic keratosis",
+            "hyperkeratotic seborrheic keratosis",
+            "leser trelat sign"
+        ],
+        "diagnosis_id": "AIP:0000775",
+        "diagnosis_name": "seborrheic keratosis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 106,
+        "condition_id": [
+            "AIP:0000253"
+        ],
+        "condition_name": [
+            "secondary syphilis"
+        ],
+        "diagnosis_id": "AIP:0000253",
+        "diagnosis_name": "secondary syphilis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 107,
+        "condition_id": [
+            "AIP:0003527",
+            "AIP:0003140",
+            "AIP:0001784",
+            "AIP:0100049"
+        ],
+        "condition_name": [
+            "severe cutaneous adverse reaction",
+            "toxic epidermal necrolysis",
+            "stevens-johnson syndrome",
+            "sjs and ten"
+        ],
+        "diagnosis_id": "AIP:0003527",
+        "diagnosis_name": "severe cutaneous adverse reaction",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 108,
+        "condition_id": [
+            "AIP:0002374",
+            "AIP:0100103",
+            "AIP:0100105",
+            "AIP:0100104"
+        ],
+        "condition_name": [
+            "shingles",
+            "herpes zoster gangraenosus",
+            "herpes zoster ophthalmicus",
+            "herpes zoster mucosa"
+        ],
+        "diagnosis_id": "AIP:0002374",
+        "diagnosis_name": "shingles",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 109,
+        "condition_id": [
+            "AIP:0003541",
+            "AIP:0002812",
+            "AIP:0003520",
+            "AIP:0002813"
+        ],
+        "condition_name": [
+            "skin disorder caused by arthropod bite",
+            "ant bites",
+            "mosquito bites",
+            "bedbug bites"
+        ],
+        "diagnosis_id": "AIP:0003541",
+        "diagnosis_name": "skin disorder caused by arthropod bite",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 110,
+        "condition_id": [
+            "AIP:0001110"
+        ],
+        "condition_name": [
+            "skin tag"
+        ],
+        "diagnosis_id": "AIP:0001110",
+        "diagnosis_name": "skin tag",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 111,
+        "condition_id": [
+            "AIP:0000734",
+            "AIP:000734e",
+            "AIP:000734b",
+            "AIP:0100006"
+        ],
+        "condition_name": [
+            "squamous cell carcinoma in situ",
+            "bowen's-disease-ulcer-under-crust",
+            "bowen's-disease-erosion-under-crust",
+            "carcinoma in situ of the lip"
+        ],
+        "diagnosis_id": "AIP:0000734",
+        "diagnosis_name": "squamous cell carcinoma in situ",
+        "malignancy": "malignant"
+    },
+    {
+        "class_index": 112,
+        "condition_id": [
+            "AIP:0000511"
+        ],
+        "condition_name": [
+            "stasis dermatitis"
+        ],
+        "diagnosis_id": "AIP:0000511",
+        "diagnosis_name": "stasis dermatitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 113,
+        "condition_id": [
+            "AIP:0001864",
+            "AIP:0022303"
+        ],
+        "condition_name": [
+            "striae",
+            "wickham striae"
+        ],
+        "diagnosis_id": "AIP:0001864",
+        "diagnosis_name": "striae",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 114,
+        "condition_id": [
+            "AIP:0001875",
+            "AIP:0001879",
+            "AIP:0001882"
+        ],
+        "condition_name": [
+            "subacute cutaneous lupus erythematosus",
+            "neonatal lupus erythematosus",
+            "drug-induced subacute cutaneous lupus erythmatosus"
+        ],
+        "diagnosis_id": "AIP:0001875",
+        "diagnosis_name": "subacute cutaneous lupus erythematosus",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 115,
+        "condition_id": [
+            "AIP:0122200"
+        ],
+        "condition_name": [
+            "surgical scar"
+        ],
+        "diagnosis_id": "AIP:0122200",
+        "diagnosis_name": "surgical scar",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 116,
+        "condition_id": [
+            "AIP:0003263"
+        ],
+        "condition_name": [
+            "sweets syndrome"
+        ],
+        "diagnosis_id": "AIP:0003263",
+        "diagnosis_name": "sweets syndrome",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 117,
+        "condition_id": [
+            "AIP:0000892",
+            "AIP:0100053"
+        ],
+        "condition_name": [
+            "syringoma",
+            "eruptive syringoma"
+        ],
+        "diagnosis_id": "AIP:0000892",
+        "diagnosis_name": "syringoma",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 118,
+        "condition_id": [
+            "AIP:0000993",
+            "AIP:0001013",
+            "AIP:0001016",
+            "AIP:0001014",
+            "AIP:0100087",
+            "AIP:0001983"
+        ],
+        "condition_name": [
+            "telangiectasia",
+            "unilateral nevoid telangiectasia",
+            "angioma serpiginosum",
+            "hereditary hemorrhagic telangiectasia",
+            "phlebectasia",
+            "cutis marmorata telangiectatica congenita"
+        ],
+        "diagnosis_id": "AIP:0000993",
+        "diagnosis_name": "telangiectasia",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 119,
+        "condition_id": [
+            "AIP:0002264"
+        ],
+        "condition_name": [
+            "tinea capitis"
+        ],
+        "diagnosis_id": "AIP:0002264",
+        "diagnosis_name": "tinea capitis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 120,
+        "condition_id": [
+            "AIP:0002259",
+            "AIP:0002529",
+            "AIP:002259b",
+            "AIP:002259a",
+            "AIP:002259d",
+            "AIP:002259c"
+        ],
+        "condition_name": [
+            "tinea corporis",
+            "majocchis granuloma",
+            "tinea-corporis-scale-only",
+            "tinea-corporis-single-or-few-plaques",
+            "tinea-corporis-lower-legs",
+            "tinea-corporis-crusts-present"
+        ],
+        "diagnosis_id": "AIP:0002259",
+        "diagnosis_name": "tinea corporis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 121,
+        "condition_id": [
+            "AIP:0002260"
+        ],
+        "condition_name": [
+            "tinea cruris"
+        ],
+        "diagnosis_id": "AIP:0002260",
+        "diagnosis_name": "tinea cruris",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 122,
+        "condition_id": [
+            "AIP:0002263"
+        ],
+        "condition_name": [
+            "tinea faciei"
+        ],
+        "diagnosis_id": "AIP:0002263",
+        "diagnosis_name": "tinea faciei",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 123,
+        "condition_id": [
+            "AIP:0100063"
+        ],
+        "condition_name": [
+            "tinea incognito"
+        ],
+        "diagnosis_id": "AIP:0100063",
+        "diagnosis_name": "tinea incognito",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 124,
+        "condition_id": [
+            "AIP:0002261",
+            "AIP:002261b",
+            "AIP:002261a"
+        ],
+        "condition_name": [
+            "tinea manuum",
+            "tinea-manuum-palms",
+            "tinea-manuum-dorsum-of-hands-wrists"
+        ],
+        "diagnosis_id": "AIP:0002261",
+        "diagnosis_name": "tinea manuum",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 125,
+        "condition_id": [
+            "AIP:0002265"
+        ],
+        "condition_name": [
+            "tinea pedis"
+        ],
+        "diagnosis_id": "AIP:0002265",
+        "diagnosis_name": "tinea pedis",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 126,
+        "condition_id": [
+            "AIP:0002266",
+            "AIP:0100007"
+        ],
+        "condition_name": [
+            "tinea unguium",
+            "distal subungual onychomycosis"
+        ],
+        "diagnosis_id": "AIP:0002266",
+        "diagnosis_name": "tinea unguium",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 127,
+        "condition_id": [
+            "AIP:0002006",
+            "AIP:0002019",
+            "AIP:0002007",
+            "AIP:0002018",
+            "AIP:0100093",
+            "AIP:0002012",
+            "AIP:0002011",
+            "AIP:0002009",
+            "AIP:0002010",
+            "AIP:0002008",
+            "AIP:0100151",
+            "AIP:0100172",
+            "AIP:0002017"
+        ],
+        "condition_name": [
+            "ulcer",
+            "neuropathic ulcer",
+            "venous ulcer",
+            "diabetic ulcer",
+            "plantar perforating disease",
+            "lymphedema",
+            "pressure ulcer",
+            "ulcer due to causes not otherwise specified",
+            "livedoid vasculopathy",
+            "arterial ulcer",
+            "ulcer of lower extremity",
+            "peripheral occlusive arterial disease",
+            "lymphadema due to filariasis"
+        ],
+        "diagnosis_id": "AIP:0002006",
+        "diagnosis_name": "ulcer",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 128,
+        "condition_id": [
+            "AIP:0003070",
+            "AIP:0003078",
+            "AIP:0003094",
+            "AIP:0003082",
+            "AIP:0003107",
+            "AIP:0002881",
+            "AIP:0003092",
+            "AIP:0003099",
+            "AIP:0003075",
+            "AIP:0003087"
+        ],
+        "condition_name": [
+            "urticaria",
+            "acute urticaria",
+            "urticaria due to cold",
+            "dermographism",
+            "red dermographism",
+            "solar urticaria",
+            "urticaria due to heat",
+            "cholinergic urticaria",
+            "physical urticaria",
+            "delayed pressure urticaria"
+        ],
+        "diagnosis_id": "AIP:0003070",
+        "diagnosis_name": "urticaria",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 129,
+        "condition_id": [
+            "AIP:0001950",
+            "AIP:0001010",
+            "AIP:0001019",
+            "AIP:0001007",
+            "AIP:0100230",
+            "AIP:0001979",
+            "AIP:0001008",
+            "AIP:0001958",
+            "AIP:0001986",
+            "AIP:0001978",
+            "AIP:0001052",
+            "AIP:0001992",
+            "AIP:0001976",
+            "AIP:0001006",
+            "AIP:0100052",
+            "AIP:0100086",
+            "AIP:0001993",
+            "AIP:0001961"
+        ],
+        "condition_name": [
+            "vascular birthmark",
+            "arteriovenous malformation",
+            "angiokeratoma",
+            "microcystic lymphatic malformation",
+            "angiomatosis",
+            "klippel-trenaunay syndrome",
+            "macrocystic lymphatic malformation",
+            "vascular malformation",
+            "blue rubber bleb nevus syndrome",
+            "sturge-weber syndrome",
+            "angiokeratoma of the scrotum or vulva",
+            "maffucci syndrome",
+            "phakomatosis pigmentovascularis",
+            "lymphatic malformation",
+            "lymphangioma",
+            "cavernous hemangioma",
+            "primary lymphedema",
+            "venous malformation"
+        ],
+        "diagnosis_id": "AIP:0001950",
+        "diagnosis_name": "vascular birthmark",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 130,
+        "condition_id": [
+            "AIP:0000183",
+            "AIP:0000185",
+            "AIP:0000191",
+            "AIP:0000184",
+            "AIP:0000187",
+            "AIP:0000193",
+            "AIP:0000194",
+            "AIP:0000189",
+            "AIP:0000190"
+        ],
+        "condition_name": [
+            "vitiligo",
+            "focal vitiligo",
+            "localised vitiligo",
+            "vitiligo ponctue",
+            "vitiligo vulgaris",
+            "generalised vitiligo",
+            "acrofacial vitiligo",
+            "trichrome vitiligo",
+            "isomorphic Koebner phenomenon"
+        ],
+        "diagnosis_id": "AIP:0000183",
+        "diagnosis_name": "vitiligo",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 131,
+        "condition_id": [
+            "AIP:0100047",
+            "AIP:0002354",
+            "AIP:0001632",
+            "AIP:0001394",
+            "AIP:0002344",
+            "AIP:0002353",
+            "AIP:0002355",
+            "AIP:0002345",
+            "AIP:0100153",
+            "AIP:0002346"
+        ],
+        "condition_name": [
+            "warts nonspecific",
+            "mosaic warts",
+            "periungual warts",
+            "butchers warts",
+            "verrucae vulgaris",
+            "myrmecial warts",
+            "inclusion warts of the sole",
+            "verrucae palmares et plantares",
+            "warts filiformis",
+            "verrucae planae"
+        ],
+        "diagnosis_id": "AIP:0100047",
+        "diagnosis_name": "warts nonspecific",
+        "malignancy": "benign"
+    },
+    {
+        "class_index": 132,
+        "condition_id": [
+            "AIP:0003029",
+            "AIP:0100202",
+            "AIP:0003031",
+            "AIP:0003030",
+            "AIP:0003038"
+        ],
+        "condition_name": [
+            "xanthoma",
+            "blepharochalasis",
+            "tuberous xanthoma",
+            "eruptive xanthoma",
+            "xanthelasma"
+        ],
+        "diagnosis_id": "AIP:0003029",
+        "diagnosis_name": "xanthoma",
+        "malignancy": "benign"
+    }
+]

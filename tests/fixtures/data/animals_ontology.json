@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "AIP:root",
+      "label": "root",
+      "type": "general",
+      "malignancy": "unspecified",
+      "show_during_review": true
+    },
+    {
+      "id": "AIP:mammal",
+      "label": "mammal",
+      "type": "general",
+      "malignancy": "unspecified",
+      "show_during_review": true
+    },
+    {
+      "id": "AIP:cat",
+      "label": "cat",
+      "type": "general",
+      "malignancy": "unspecified",
+      "show_during_review": true
+    },
+    {
+      "id": "AIP:dog",
+      "label": "dog",
+      "type": "general",
+      "malignancy": "unspecified",
+      "show_during_review": true
+    },
+    {
+      "id": "AIP:koala",
+      "label": "koala",
+      "type": "general",
+      "malignancy": "unspecified",
+      "show_during_review": true
+    },
+    {
+      "id": "AIP:kangaroo",
+      "label": "kangaroo",
+      "type": "general",
+      "malignancy": "unspecified",
+      "show_during_review": true
+    },
+    {
+      "id": "AIP:bird",
+      "label": "bird",
+      "type": "general",
+      "malignancy": "unspecified",
+      "show_during_review": true
+    },
+    {
+      "id": "AIP:goose",
+      "label": "goose",
+      "type": "general",
+      "malignancy": "unspecified",
+      "show_during_review": true
+    }
+  ],
+  "edges": [
+    {
+      "from": "AIP:root",
+      "to": "AIP:mammal"
+    },
+    {
+      "from": "AIP:root",
+      "to": "AIP:bird"
+    },
+    {
+      "from": "AIP:mammal",
+      "to": "AIP:cat"
+    },
+    {
+      "from": "AIP:mammal",
+      "to": "AIP:dog"
+    },
+    {
+      "from": "AIP:mammal",
+      "to": "AIP:koala"
+    },
+    {
+      "from": "AIP:mammal",
+      "to": "AIP:kangaroo"
+    },
+    {
+      "from": "AIP:bird",
+      "to": "AIP:goose"
+    }
+  ]
+}

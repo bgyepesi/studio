@@ -1,0 +1,6 @@
+# Convert Model Config File
+deployment:
+  model_conversion:
+      input_model: models_trained/efficientnetb3/model.h5
+      output_dir: deployment/ensemble_1/efficientnetb3
+      feature_layer:

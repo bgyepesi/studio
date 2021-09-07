@@ -1,0 +1,21 @@
+-e .
+
+pytest
+pytest-cov
+flake8
+autoflake
+pep8
+autopep8
+backports.tempfile
+gsutil
+
+more-itertools
+requests
+bs4
+dotmap
+
+# Install TensorFlow from Nvidia
+nvidia-tensorflow
+
+# Bleeding edge version for keras models
+git+https://github.com/keras-team/keras-applications.git

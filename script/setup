@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -e
+. script/env
+set -x
+pip install --upgrade pip
+pip install nvidia-pyindex
+pip install -r requirements.txt
+
+# Fetch test fixtures from Google Storage
+script/fetch-fixtures

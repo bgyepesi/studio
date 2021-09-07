@@ -1,0 +1,171 @@
+[
+  {
+    "id": 2988283,
+    "width": 472,
+    "height": 472,
+    "tags": [
+      "AIP:0002491",
+      "name:childhood-flexural-comedones",
+      "image-type:macroscopic"
+    ],
+    "timestamp": "2018-10-27 03:33:23 UTC",
+    "filename": "image2988283-2988283.jpg",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "train_class_0"
+    },
+    "storage_key": "asewrnwej7"
+  },
+  {
+    "id": 2988285,
+    "width": 480,
+    "height": 480,
+    "tags": [
+      "AIP:0002491",
+      "name:childhood-flexural-comedones"
+    ],
+    "timestamp": "2018-10-27 03:33:25 UTC",
+    "filename": "image2988285-2988285.jpg",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "train_class_0"
+    },
+    "storage_key": "asewrnwej7"
+  },
+  {
+    "id": 2947744,
+    "width": 378,
+    "height": 378,
+    "tags": [
+    ],
+    "timestamp": "2018-10-24 21:18:44 UTC",
+    "filename": "image2947744-2947744.jpg",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "train_class_1"
+    },
+    "reviews": [
+      {
+        "reviewer_email": "reviewer_1",
+        "image_type": "macroscopic",
+        "diagnoses": {
+          "AIP:0002471": 60,
+          "AIP:0002480": 20,
+          "uncertainty": 20
+        }
+      },
+      {
+        "reviewer_email": "reviewer_2",
+        "image_type": "dermoscopic",
+        "diagnoses": {
+          "AIP:0002491": 30,
+          "AIP:0002480": 20,
+          "AIP:0002471": 50
+        }
+      },
+      {
+        "reviewer_email": "reviewer_3",
+        "image_type": "macroscopic",
+        "diagnoses": {
+          "AIP:0002471": 60,
+          "uncertainty": 40
+         }
+      },
+      {
+        "reviewer_email": "reviewer_4",
+        "image_type": "dermoscopic",
+        "diagnoses": {
+          "AIP:0002471": 80,
+          "uncertainty": 20
+          }
+      },
+      {
+        "reviewer_email": "reviewer_5",
+        "image_type": "undefined",
+        "diagnoses": {
+          "AIP:0002491": 60,
+          "AIP:0002480": 20,
+          "AIP:0002471": 20
+          }
+      }
+    ],
+    "storage_key": "asewrnwej7"
+  },
+  {
+    "id": 2947746,
+    "width": 345,
+    "height": 345,
+    "tags": [
+    ],
+    "timestamp": "2018-10-24 21:18:47 UTC",
+    "filename": "image2947746-2947746.jpg",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "train_class_1"
+    },
+    "reviews": [
+      {
+        "reviewer_email": "reviewer_1",
+        "image_type": "dermoscopic",
+        "diagnoses": {
+      }
+      },
+      {
+        "reviewer_email": "reviewer_2",
+        "image_type": "dermoscopic",
+        "diagnoses": {
+          "AIP:0002491": 40,
+          "AIP:0002471": 60
+        }
+      },
+      {
+        "reviewer_email": "reviewer_3",
+        "image_type": "macroscopic",
+        "diagnoses": {
+          "AIP:0002491": 30,
+          "uncertainty": 70
+        }
+      }
+    ],
+    "storage_key": "asewrnwej7"
+  },
+  {
+    "id": 2695206,
+    "width": 517,
+    "height": 517,
+    "tags": [
+    ],
+    "timestamp": "2018-10-10 13:29:35 UTC",
+    "filename": "image2695206-2695206.jpg",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "train_class_2"
+    },
+    "reviews": [
+      {
+        "reviewer_email": "reviewer_1",
+        "image_type": "macroscopic",
+        "diagnoses": {
+          "uncertainty": 100
+        }
+      },
+      {
+        "reviewer_email": "reviewer_2",
+        "image_type": "macroscopic",
+        "diagnoses": {
+          "AIP:0002491": 40,
+          "AIP:0002471": 60
+        }
+      },
+      {
+        "reviewer_email": "reviewer_3",
+        "image_type": "macroscopic",
+        "diagnoses": {
+          "AIP:0002491": 30,
+          "AIP:0002471": 70
+        }
+      }
+    ],
+    "storage_key": "asewrnwej7"
+  }
+]

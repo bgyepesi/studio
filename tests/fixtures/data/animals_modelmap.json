@@ -1,0 +1,65 @@
+[
+    {
+        "class_index": 0,
+        "condition_id": "AIP:bird",
+        "condition_name": "bird",
+        "diagnosis_id": "AIP:bird",
+        "diagnosis_name": "bird",
+        "malignancy": "unspecified",
+        "n_samples": 0.0
+    },
+    {
+        "class_index": 0,
+        "condition_id": "AIP:goose",
+        "condition_name": "goose",
+        "diagnosis_id": "AIP:bird",
+        "diagnosis_name": "bird",
+        "malignancy": "unspecified",
+        "n_samples": 5.0
+    },
+    {
+        "class_index": 1,
+        "condition_id": "AIP:mammal",
+        "condition_name": "mammal",
+        "diagnosis_id": "AIP:mammal",
+        "diagnosis_name": "mammal",
+        "malignancy": "unspecified",
+        "n_samples": 0.0
+    },
+    {
+        "class_index": 1,
+        "condition_id": "AIP:cat",
+        "condition_name": "cat",
+        "diagnosis_id": "AIP:mammal",
+        "diagnosis_name": "mammal",
+        "malignancy": "unspecified",
+        "n_samples": 16.0
+    },
+    {
+        "class_index": 1,
+        "condition_id": "AIP:dog",
+        "condition_name": "dog",
+        "diagnosis_id": "AIP:mammal",
+        "diagnosis_name": "mammal",
+        "malignancy": "unspecified",
+        "n_samples": 13.0
+    },
+    {
+        "class_index": 1,
+        "condition_id": "AIP:kangaroo",
+        "condition_name": "kangaroo",
+        "diagnosis_id": "AIP:mammal",
+        "diagnosis_name": "mammal",
+        "malignancy": "unspecified",
+        "n_samples": 10.0
+    },
+    {
+        "class_index": 1,
+        "condition_id": "AIP:koala",
+        "condition_name": "koala",
+        "diagnosis_id": "AIP:mammal",
+        "diagnosis_name": "mammal",
+        "malignancy": "unspecified",
+        "n_samples": 12.0
+    }
+]

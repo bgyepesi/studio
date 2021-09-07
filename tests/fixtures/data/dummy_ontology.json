@@ -1,0 +1,145 @@
+{
+  "nodes": [
+      {
+          "id": "AIP:root",
+          "label": "root",
+          "type": "general",
+          "malignancy": "unspecified",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0000000",
+          "label": "disease",
+          "type": "general",
+          "malignancy": "unspecified",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0000001",
+          "label": "cutaneous disease",
+          "type": "general",
+          "malignancy": "unspecified",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0000007",
+          "label": "adnexal disease",
+          "type": "general",
+          "malignancy": "unspecified",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0002471",
+          "label": "acne vulgaris",
+          "type": "diagnosis",
+          "malignancy": "benign",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0002480",
+          "label": "acne conglobata",
+          "type": "general",
+          "malignancy": "benign",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0002484",
+          "label": "acne excoriee des jeunes filles",
+          "type": "general",
+          "malignancy": "benign",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0002478",
+          "label": "acne fulminans",
+          "type": "general",
+          "malignancy": "benign",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0001379",
+          "label": "acne mechanica",
+          "type": "general",
+          "malignancy": "benign",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0002475",
+          "label": "acneiform eruption",
+          "type": "general",
+          "malignancy": "malignant",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0002481",
+          "label": "follicular occlusion tetrad",
+          "type": "general",
+          "malignancy": "benign",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0002491",
+          "label": "childhood flexural comedones",
+          "type": "diagnosis",
+          "malignancy": "malignant",
+          "show_during_review": true
+      },
+      {
+          "id": "AIP:0100001",
+          "label": "dummy node",
+          "type": "general",
+          "malignancy": "malignant",
+          "show_during_review": true
+      }
+  ],
+  "edges": [
+      {
+          "from": "AIP:root",
+          "to": "AIP:0000000"
+      },
+      {
+          "from": "AIP:0000000",
+          "to": "AIP:0000001"
+      },
+      {
+          "from": "AIP:0000001",
+          "to": "AIP:0000007"
+      },
+      {
+          "from": "AIP:0000007",
+          "to": "AIP:0002471"
+      },
+      {
+          "from": "AIP:0000007",
+          "to": "AIP:0100001"
+      },
+      {
+          "from": "AIP:0100001",
+          "to": "AIP:0002475"
+      },
+      {
+          "from": "AIP:0002471",
+          "to": "AIP:0002480"
+      },
+      {
+          "from": "AIP:0002471",
+          "to": "AIP:0002484"
+      },
+      {
+          "from": "AIP:0002471",
+          "to": "AIP:0002478"
+      },
+      {
+          "from": "AIP:0002471",
+          "to": "AIP:0001379"
+      },
+      {
+          "from": "AIP:0002480",
+          "to": "AIP:0002481"
+      },
+      {
+          "from": "AIP:0002475",
+          "to": "AIP:0002491"
+      }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3147,
+    "width": 540,
+    "height": 540,
+    "tags": [
+      "DERMO:0000959",
+      "ICD-10:D22.9",
+      "SNOMEDID:254818000",
+      "AIP:0000959",
+      "classifier:133-way",
+      "google-vision:skin",
+      "key:dermoscopic",
+      "name:atypical-melanocytic-nevus",
+      "review:further-review",
+      "setting:clinical",
+      "AIP:1281281"
+    ],
+    "timestamp": "2017-10-15 23:07:09 UTC",
+    "filename": "00000_atypical_melanocytic_nevus/image3147-3147.jpg",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "atypical melanocytic nevus"
+    }
+  },
+  {
+    "id": 31811,
+    "width": 450,
+    "height": 450,
+    "tags": [
+      "DERMO:0000959",
+      "ICD-10:D22.9",
+      "SNOMEDID:254818000",
+      "AIP:0000958",
+      "classifier:133-way",
+      "key:dermoscopic",
+      "name:atypical-melanocytic-nevus",
+      "setting:clinical"
+    ],
+    "timestamp": "2017-10-16 00:28:34 UTC",
+    "filename": "00000_atypical_melanocytic_nevus/image31811-31811.jpg",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "atypical melanocytic nevus"
+    }
+  },
+  {
+    "id": 318666,
+    "width": 1859,
+    "height": 1859,
+    "tags": [
+      "DERMO:0000923",
+      "ICD-10:D22.9",
+      "SNOMEDID:286903005",
+      "AIP:0000923",
+      "google-vision:skin",
+      "key:dermoscopic",
+      "name:benign-melanocytic-neoplasm",
+      "setting:clinical",
+      "source:isic-2017"
+    ],
+    "timestamp": "2017-12-28 21:33:52 UTC",
+    "filename": "00001_benign_melanocytic_neoplasm/benign_nevus_0992_jpg-318666.jpg",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "benign melanocytic neoplasm"
+    }
+  },
+  {
+    "id": 318731,
+    "width": 2848,
+    "height": 2848,
+    "tags": [
+      "DERMO:0000923",
+      "ICD-10:D22.9",
+      "SNOMEDID:286903005",
+      "AIP:0000922",
+      "google-vision:nose",
+      "google-vision:skin",
+      "key:dermoscopic",
+      "name:benign-melanocytic-neoplasm",
+      "setting:clinical",
+      "source:isic-2017"
+    ],
+    "timestamp": "2017-12-28 21:36:48 UTC",
+    "filename": "00001_benign_melanocytic_neoplasm/benign_nevus_1014_jpg-318731.jpg",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "benign melanocytic neoplasm"
+    }
+  }
+]

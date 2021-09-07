@@ -1,0 +1,47 @@
+# This configuration file specifies the AI-Studio's Visual system options for testing the train step.
+
+experiment:
+  name: aip_test
+  author: author
+  output_dir: ./tmp/
+
+settings:
+  dgx:
+    num_gpus: 1
+
+steps:
+  data:
+    train:
+      modelmap:
+        data_directory: ./tests/fixtures/dataset/animals/files
+        dataset_manifest_path: ./tests/fixtures/dataset/animals/manifest.json
+        conditions_manifest_path: ./tests/fixtures/data/animals_modelmap.json
+        validation_split:
+          class_ratio: 0.1
+
+  train:
+    data:
+      data_processing:
+        target_size: 224
+        batch_size: 1
+        preprocess_func: mean_subtraction
+        class_weights_value: [1, 2, 3]
+
+    settings:
+      architecture: mobilenet_v1
+      num_iterations: 1
+      num_workers: 1
+      max_queue_size: 1
+
+    hyperparameters:
+      num_epochs: 1
+      loss_function: categorical_crossentropy
+      dropout_rate: 0
+
+    optimizer:
+      SGD:
+        lr: 0.001
+        decay: 0.0000
+        momentum: 0.90
+        gamma: 0.5
+        scheduler_frequency: [2, 3, 4]

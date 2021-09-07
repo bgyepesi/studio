@@ -1,0 +1,53 @@
+# This configuration file specifies the Studio's Auto Visual system options.
+
+experiment:
+  name: 7_way_dermoscopic_train
+  author: author
+  output_dir: ./demo/
+
+settings:
+  dgx:
+    num_gpus: 1
+
+  gstorage:
+    project: ai-studio
+    bucket: ai-studio
+    dst_path: jobs
+
+steps:
+  data:
+    train:
+      lab:
+        manifest:
+          data_directory: /data/lab/images/files
+          train_lab_manifest_path: /data/datasets/dermoscopic/train_manifest.json
+          val_lab_manifest_path: /data/datasets/dermoscopic/val_manifest.json
+
+  train:
+    data:
+      data_processing:
+        target_size: 299
+        batch_size: 64
+        preprocess_func: mean_subtraction
+        class_weights: true
+        class_weight_smoothing: 1.02
+        train_stats_pickle: /data/datasets/dermoscopic/train_stats.pickle
+
+    settings:
+      architecture: inception_resnet_v2
+      num_iterations: 1
+      num_workers: 16
+      max_queue_size: 128
+
+    hyperparameters:
+      num_epochs: 1
+      loss_function: categorical_crossentropy
+      dropout_rate: 0
+
+    optimizer:
+      SGD:
+        lr: 0.001
+        decay: 0.0000
+        momentum: 0.90
+        gamma: 0.5
+        scheduler_frequency: [15, 30, 50]

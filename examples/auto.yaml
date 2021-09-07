@@ -1,0 +1,178 @@
+# This configuration file specifies the Studio's Auto Visual system options.
+
+experiment:
+  name: experiment_name
+  # description:
+  author: author
+  output_dir: ../../../studio/
+  seed: 2020
+
+settings:
+  dgx:
+    num_gpus: 2
+
+  # gstorage:
+  #   project: ai-studio
+  #   bucket: ai-studio
+  #   dst_path: jobs
+
+  # lab:
+  #  API_key: Lab_API_Key
+
+steps:
+  data:
+    train:
+    # directory:
+    #   train_dir: /path/to/train/folder
+    #   val_dir: /path/to/val/folder
+
+      modelmap:
+        data_directory: /path/to/data/
+        dataset_manifest_path: /path/to/dataset/manifest.json
+        conditions_manifest_path: /path/to/conditions/manifest.json
+        validation_split:
+          class_count: 30
+          # class_ratio: 0.1
+
+    # lab:
+    #   manifest:
+    #     data_directory: /path/to/data/directory
+    #     train_lab_manifest_path: /path/to/lab/train/manifest.json
+    #     val_lab_manifest_path: /path/to/lab/val/manifest.json
+
+    eval:
+    # directory:
+    #   test_dir: /path/to/test/folder
+
+      modelmap:
+        data_directory: /path/to/data/
+        dataset_manifest_path: /path/to/dataset/manifest.json
+        conditions_manifest_path: /path/to/conditions/manifest.json
+
+    # lab:
+    #   manifest:
+    #     data_directory: /path/to/data/directory
+    #     test_lab_manifest_path: /path/to/lab/train/manifest.json
+
+  train:
+    data:
+      # input:
+      #   train_class_manifest_path: /path/to/train/class/manifest
+      #   val_class_manifest_path: /path/to/val/class/manifest
+
+      data_processing:
+        batch_size: 128
+        preprocess_func: mean_subtraction
+        subtract_dataset_mean: true
+        class_weights: true
+        # class_weights_value:
+        # class_weight_smoothing:
+        # iterator_mode:
+        # train_stats_pickle: /path/to/train_stats.pickle
+
+      # train_data_augmentation:
+      #   custom_crop:
+      #   random_crop_size:
+      #   rotation_range:
+      #   width_shift_range:
+      #   height_shift_range:
+      #   shear_range:
+      #   zoom_range:
+      #   horizontal_flip:
+      #   vertical_flip:
+      #   fill_mode:
+
+      # val_data_augmentation:
+      #   custom_crop:
+      #   random_crop_size:
+      #   rotation_range:
+      #   width_shift_range:
+      #   height_shift_range:
+      #   shear_range:
+      #   zoom_range:
+      #   horizontal_flip:
+      #   vertical_flip:
+      #   fill_mode:
+
+    settings:
+      architecture:
+        vgg16
+#        vgg19
+#        resnet50
+#        resnet101
+#        resnet152
+#        resnet50_v2
+#        resnet101_v2
+#        resnet152_v2
+#        ResNeXt50
+#        ResNeXt101
+#        mobilenet_v1
+#        mobilenet_v2
+#        mobilenet_v3_small
+#        mobilenet_v3_large
+#        inception_resnet_v2
+#        inception_v3
+#        xception
+#        nasnet_large
+#        nasnet_mobile
+#        densenet_169
+#        densenet_121
+#        densenet_201
+#        efficientnetb0
+#        efficientnetb1
+#        efficientnetb2
+#        efficientnetb3
+#        efficientnetb4
+#        efficientnetb5
+#        efficientnetb6
+#        efficientnetb7
+
+      track_sensitivity: true
+      num_iterations: 2
+      num_workers: 16
+      max_queue_size: 128
+
+    hyperparameters:
+      num_epochs: 5
+      loss_function: categorical_crossentropy
+      # dropout_rate:
+      # freeze_layers:
+      #   start:
+      #   end:
+      # cyclical_learning_rate:
+      #   mode:
+      #   base_lr:
+      #   max_lr:
+      #   step_size:
+
+    optimizer:
+      SGD:
+        lr: 0.001
+        decay: 0.0000
+        momentum: 0.90
+        gamma: 0.5
+        scheduler_frequency: [2, 3, 4]
+     # Adam:
+     #   lr: 0.001
+     #   beta_1: 0.0
+     #   beta_2: 0.0
+     #   epsilon: 0.0
+     #   decay: 0.0
+
+  eval:
+    # data:
+    #  input:
+    #    test_class_manifest_path: /path/to/test/class/manifest.json
+
+    single:
+      model_path: /path/to/keras/model.hdf5
+      # ensemble_models_dir:
+      combination_mode: arithmetic
+      # concept_dictionary_path:
+      top_k: 1
+      batch_size: 32
+      custom_crop: true
+      # data_augmentation:
+      confusion_matrix: true
+      show_confusion_matrix_text: true
+      verbose: true

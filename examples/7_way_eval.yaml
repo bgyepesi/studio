@@ -1,0 +1,28 @@
+# This configuration file specifies the Studio's Visual system options.
+
+experiment:
+  name: 7_way_dermoscopic
+  author: author
+  output_dir: ./demo/
+
+settings:
+  dgx:
+    num_gpus: 1
+
+steps:
+  data:
+    eval:
+      directory:
+        test_dir: /data/datasets/dermoscopic/october_2019/internal_test
+
+  eval:
+    single:
+      model_path: /data/models/dermoscopic/classification/october_2019/single/inception_resnet_v2_smoothing_1.02_crop_0.9/iter_0/model_max_acc.hdf5
+      combination_mode: arithmetic
+      top_k: 1
+      batch_size: 32
+      custom_crop: true
+      data_augmentation: {'crop_original': 'center_crop'}
+      confusion_matrix: True
+      show_confusion_matrix_text: True
+      verbose: True

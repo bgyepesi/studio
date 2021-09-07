@@ -1,0 +1,759 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Studio Tuner schema",
+  "type": "object",
+  "properties": {
+    "experiment": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        "author": {
+          "type": "string"
+        },
+        "output_dir": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "author",
+        "output_dir"
+      ]
+    },
+    "settings": {
+      "type": "object",
+      "properties": {
+        "dgx": {
+          "type": "object",
+          "properties": {
+            "num_gpus": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "maximum": 4
+            },
+            "max_gpus": {
+              "type": [
+                "null",
+                "integer"
+              ],
+              "default": 4
+            }
+          },
+          "required": [
+            "num_gpus"
+          ]
+        },
+        "lab": {
+          "type": "object",
+          "properties": {
+            "API_key": {
+              "type": "string",
+              "empty": false
+            }
+          },
+          "required": [
+            "API_key"
+          ]
+        }
+      }
+    },
+    "steps": {
+      "type": "object",
+      "properties": {
+        "train": {
+          "type": "object",
+          "properties": {
+            "data": {
+              "type": "object",
+              "properties": {
+                "local": {
+                  "type": "object",
+                  "properties": {
+                    "train_dir": {
+                      "type": [
+                        "null",
+                        "string"
+                      ]
+                    },
+                    "train_dataframe_path": {
+                      "type": [
+                        "null",
+                        "string"
+                      ]
+                    },
+                    "val_dir": {
+                      "type": [
+                        "null",
+                        "string"
+                      ]
+                    },
+                    "val_dataframe_path": {
+                      "type": [
+                        "null",
+                        "string"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "train_dir",
+                    "val_dir"
+                  ]
+                },
+                "lab": {
+                  "type": "object",
+                  "properties": {
+                    "ontology": {
+                      "type": "string"
+                    },
+                    "dataset": {
+                      "type": "string"
+                    },
+                    "tag_query": {
+                      "type": [
+                        "null",
+                        "string"
+                      ]
+                    },
+                    "min_images_diagnosis": {
+                      "type": [
+                        "null",
+                        "integer"
+                      ],
+                      "default": 100
+                    },
+                    "val_percent": {
+                      "type": [
+                        "null",
+                        "integer"
+                      ],
+                      "default": 15
+                    }
+                  },
+                  "required": [
+                    "ontology",
+                    "dataset",
+                    "tag_query",
+                    "min_images_diagnosis",
+                    "val_percent"
+                  ]
+                },
+                "data_processing": {
+                  "type": "object",
+                  "properties": {
+                    "target_size": {
+                      "type": "integer",
+                      "default": 224
+                    },
+                    "preprocess_func": {
+                      "type": "string"
+                    },
+                    "class_weights": {
+                      "type": [
+                        "null",
+                        "boolean"
+                      ],
+                      "default": true
+                    },
+                    "class_weights_value": {
+                      "type": [
+                        "null",
+                        "array"
+                      ],
+                      "default": null
+                    },
+                    "class_weight_smoothing": {
+                      "type": [
+                        "null",
+                        "number"
+                      ],
+                      "default": 1.0
+                    },
+                    "random_crop_size": {
+                      "type": [
+                        "null",
+                        "number"
+                      ],
+                      "default": null
+                    },
+                    "iterator_mode": {
+                      "type": [
+                        "null",
+                        "string"
+                      ],
+                      "default": null
+                    },
+                    "data_augmentation": {
+                      "type": "boolean",
+                      "default": true
+                    }
+                  },
+                  "required": [
+                    "target_size",
+                    "preprocess_func",
+                    "class_weights",
+                    "data_augmentation"
+                  ]
+                },
+                "train_data_generator": {
+                  "type": "object",
+                  "properties": {
+                    "rotation_range": {
+                      "type": "integer",
+                      "default": 180
+                    },
+                    "width_shift_range": {
+                      "type": "number",
+                      "default": 0.0
+                    },
+                    "height_shift_range": {
+                      "type": "number",
+                      "default": 0.0
+                    },
+                    "shear_range": {
+                      "type": "number",
+                      "default": 0.0
+                    },
+                    "zoom_range": {
+                      "type": "number",
+                      "default": 0.1
+                    },
+                    "horizontal_flip": {
+                      "type": "boolean",
+                      "default": true
+                    },
+                    "vertical_flip": {
+                      "type": "boolean",
+                      "default": true
+                    },
+                    "fill_mode": {
+                      "type": "string",
+                      "default": "nearest"
+                    }
+                  },
+                  "required": [
+                    "rotation_range",
+                    "width_shift_range",
+                    "height_shift_range",
+                    "shear_range",
+                    "zoom_range",
+                    "horizontal_flip",
+                    "vertical_flip",
+                    "fill_mode"
+                  ],
+                  "default": {}
+                },
+                "train_statistics": {
+                  "type": [
+                    "null",
+                    "object"
+                  ]
+                }
+              },
+              "oneOf": [
+                {
+                  "type": "object",
+                  "required": [
+                    "local"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "required": [
+                    "lab"
+                  ]
+                }
+              ],
+              "required": [
+                "data_processing"
+              ]
+            },
+            "settings": {
+              "type": "object",
+              "properties": {
+                "architecture": {
+                  "type": "string",
+                  "enum": ["densenet_121",
+                      "densenet_169",
+                      "densenet_201",
+                  "inception_resnet_v2",
+                  "inception_v3",
+                  "inception_v4",
+                  "mobilenet_v1",
+                  "nasnet_large",
+                  "nasnet_mobile",
+                  "resnet152",
+                    "resnet50",
+                  "vgg16",
+                  "vgg19",
+                  "xception"]
+                },
+                "num_iterations": {
+                  "type": "integer"
+                },
+                "load_model": {
+                  "type": [
+                    "null",
+                    "string"
+                  ]
+                },
+                "num_workers": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "default": 16
+                },
+                "max_queue_size": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "default": 128
+                },
+                "model_spec": {
+                  "type": [
+                    "null",
+                    "object"
+                  ],
+                  "properties": {
+                    "num_images": {
+                      "type": [
+                        "null",
+                        "integer"
+                      ]
+                    },
+                    "mean": {
+                      "type": [
+                        "null",
+                        "array"
+                      ]
+                    },
+                    "std": {
+                      "type": [
+                        "null",
+                        "array"
+                      ]
+                    },
+                    "class_histogram": {
+                      "type": [
+                        "null",
+                        "array"
+                      ]
+                    }
+                  },
+                  "default": {}
+                }
+              },
+              "required": [
+                "architecture"
+              ]
+            },
+            "hyperparameters": {
+              "type": "object",
+              "properties": {
+                "batch_size": {
+                  "type": ["integer", "array"],
+                  "default": 32,
+                  "properties": {
+                    "tunable": {
+                      "type": "boolean",
+                      "default": true
+                    }
+                  }
+                },
+                "loss_function": {
+                  "type": "string"
+                },
+                "dropout_rate": {
+                  "type": [
+                    "null",
+                    "number"
+                  ],
+                  "default": 0.0
+                },
+                "num_epochs": {
+                  "type": "integer",
+                  "default": 80
+                },
+                "freeze_layers": {
+                  "type": ["null", "object"],
+                  "properties": {
+                    "start": {
+                      "type": [
+                        "null",
+                        "integer"
+                      ],
+                      "default": null
+                    },
+                    "end": {
+                      "type": [
+                        "null",
+                        "integer"
+                      ],
+                      "default": null
+                    }
+                  },
+                  "default": {}
+                },
+                "layers_to_freeze": {
+                  "type": [
+                    "null",
+                    "array"
+                  ]
+                },
+                "cyclical_learning_rate": {
+                  "type": "object",
+                  "properties": {
+                    "mode": {
+                      "type": [
+                        "null",
+                        "string"
+                      ],
+                      "default": "triangular"
+                    },
+                    "base_lr": {
+                      "type": [
+                        "null",
+                        "number"
+                      ],
+                      "default": 0.001
+                    },
+                    "max_lr": {
+                      "type": [
+                        "null",
+                        "number"
+                      ],
+                      "default": 0.006
+                    },
+                    "step_size": {
+                      "type": [
+                        "null",
+                        "integer"
+                      ],
+                      "default": 1
+                    }
+                  },
+                  "required": [
+                    "mode",
+                    "base_lr",
+                    "max_lr",
+                    "step_size"
+                  ]
+                }
+              },
+              "required": [
+                "batch_size",
+                "loss_function",
+                "num_epochs"
+              ]
+            },
+            "optimizer": {
+              "type": "object",
+              "properties": {
+                "SGD": {
+                  "type": "object",
+                  "properties": {
+                    "lr": {
+                      "type": ["number", "array"],
+                      "default": 0.001,
+                      "properties": {
+                        "tunable": {
+                          "type": "boolean",
+                          "default": true
+                        }
+                      }
+                    },
+                    "decay": {
+                      "type": "number",
+                      "default": 0
+                    },
+                    "momentum": {
+                      "type": "number",
+                      "default": 0.9
+                    },
+                    "gamma": {
+                      "type": "number",
+                      "default": 0.5
+                    },
+                    "scheduler_frequency": {
+                      "type": "array",
+                      "default": [
+                        2,
+                        3,
+                        4
+                      ]
+                    }
+                  },
+                  "required": [
+                    "lr",
+                    "decay",
+                    "momentum"
+                  ]
+                },
+                "Adam": {
+                  "type": "object",
+                  "properties": {
+                    "lr": {
+                      "type": "number",
+                      "default": 0.01
+                    },
+                    "beta_1": {
+                      "type": "number",
+                      "default": 0
+                    },
+                    "beta_2": {
+                      "type": "number",
+                      "default": 0
+                    },
+                    "epsilon": {
+                      "type": "number",
+                      "default": 0
+                    },
+                    "decay": {
+                      "type": "number",
+                      "default": 0
+                    }
+                  },
+                  "required": [
+                    "lr",
+                    "beta_1",
+                    "beta_2",
+                    "epsilon",
+                    "decay"
+                  ]
+                }
+              },
+              "oneOf": [
+                {
+                  "type": "object",
+                  "required": [
+                    "SGD"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "required": [
+                    "Adam"
+                  ]
+                }
+              ]
+            },
+            "history": {
+              "type": ["null", "object"],
+              "properties": {
+                "versions": {
+                  "type": ["null", "string"],
+                  "default": null
+                }
+              },
+              "default": {}
+            }
+          },
+          "required": [
+            "settings",
+            "hyperparameters",
+            "optimizer"
+          ]
+        },
+        "eval": {
+          "type": "object",
+          "properties": {
+            "data": {
+              "type": "object",
+              "properties": {
+                "visual": {
+                  "type": "object",
+                  "properties": {
+                    "local": {
+                      "type": "object",
+                      "properties": {
+                        "test_dir": {
+                          "type": [
+                            "null",
+                            "string"
+                          ]
+                        }
+                      },
+                      "required": [
+                        "test_dir"
+                      ]
+                    },
+                    "lab": {
+                      "type": "object",
+                      "properties": {
+                        "request": {
+                          "type": "object",
+                          "properties": {
+                            "test_snapshot": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "test_snapshot"
+                          ]
+                        },
+                        "create": {
+                          "type": "object",
+                          "properties": {
+                            "ontology": {
+                              "type": "string"
+                            },
+                            "dataset": {
+                              "type": "string"
+                            },
+                            "tag_query": {
+                              "type": [
+                                "null",
+                                "string"
+                              ]
+                            }
+                          },
+                          "required": [
+                            "ontology",
+                            "dataset",
+                            "tag_query"
+                          ]
+                        }
+                      },
+                      "oneOf": [
+                        {
+                          "type": "object",
+                          "required": [
+                            "request"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "required": [
+                            "create"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "oneOf": [
+                    {
+                      "type": "object",
+                      "required": [
+                        "local"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "required": [
+                        "lab"
+                      ]
+                    }
+                  ]
+                }
+              }
+            },
+            "visual": {
+              "type": "object",
+              "properties": {
+                "single": {
+                  "type": "object",
+                  "properties": {
+                    "model_path": {
+                      "type": [
+                        "null",
+                        "string"
+                      ]
+                    },
+                    "ensemble_models_dir": {
+                      "type": [
+                        "null",
+                        "string"
+                      ]
+                    },
+                    "combination_mode": {
+                      "type": [
+                        "null",
+                        "string"
+                      ]
+                    },
+                    "concept_dictionary_path": {
+                      "type": [
+                        "null",
+                        "string"
+                      ]
+                    },
+                    "batch_size": {
+                      "type": "integer"
+                    },
+                    "data_augmentation": {
+                      "type": [
+                        "null",
+                        "boolean"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "batch_size"
+                  ]
+                },
+                "sequential": {
+                  "type": "object",
+                  "properties": {
+                    "gates_configuration_path": {
+                      "type": "string"
+                    },
+                    "batch_size": {
+                      "type": [
+                        "null",
+                        "integer"
+                      ]
+                    },
+                    "data_augmentation": {
+                      "type": [
+                        "null",
+                        "boolean"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "gates_configuration_path",
+                    "batch_size",
+                    "data_augmentation"
+                  ]
+                }
+              },
+              "oneOf": [
+                {
+                  "type": "object",
+                  "required": [
+                    "single"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "required": [
+                    "sequential"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "data",
+            "visual"
+          ]
+        }
+      },
+      "required": [
+        "train"
+      ]
+    }
+  },
+  "required": [
+    "experiment",
+    "settings",
+    "steps"
+  ]
+}

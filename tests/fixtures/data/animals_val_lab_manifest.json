@@ -1,0 +1,106 @@
+[
+  {
+    "id": 56578,
+    "width": 1200,
+    "height": 1206,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:cat"
+    ],
+    "timestamp": "2017-10-22T21:13:31.977Z",
+    "filename": "00000_cat/image56578-56578.jpg",
+    "storage_key": "x2S21vYVDMhRPyfRYoZeFHQX",
+    "dictionary": {
+      "class_index": 0,
+      "class_name": "cat"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56608,
+    "width": 500,
+    "height": 375,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:dog"
+    ],
+    "timestamp": "2017-10-22T21:14:01.592Z",
+    "filename": "00001_dog/image56608-56608.jpg",
+    "storage_key": "jX2gDN4fxfPBfTyrANA8Xaz2",
+    "dictionary": {
+      "class_index": 1,
+      "class_name": "dog"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56707,
+    "width": 300,
+    "height": 300,
+    "tags": [
+      "name:koala"
+    ],
+    "crop": [
+      0,
+      76,
+      300,
+      300
+    ],
+    "timestamp": "2017-10-30T19:11:39.919Z",
+    "filename": "00002_koala/ilsvrc2012_val_00019996_jpeg-56707.jpg",
+    "storage_key": "quu3dHUDwaMGPQy7Lp4D4HwX",
+    "dictionary": {
+      "class_index": 2,
+      "class_name": "koala"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56623,
+    "width": 375,
+    "height": 500,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:kangaroo"
+    ],
+    "timestamp": "2017-10-22T21:14:16.674Z",
+    "filename": "00003_kangaroo/image56623-56623.jpg",
+    "storage_key": "niYQjmqfNzdvHMpKL4jsA8XB",
+    "dictionary": {
+      "class_index": 3,
+      "class_name": "kangaroo"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  },
+  {
+    "id": 56558,
+    "width": 500,
+    "height": 401,
+    "tags": [
+      "lab:not-square",
+      "lab:possible-duplicate",
+      "name:goose"
+    ],
+    "timestamp": "2017-10-22T21:13:09.571Z",
+    "filename": "00004_goose/image56558-56558.jpg",
+    "storage_key": "AQuCdN5fwjHVX5cv5XX5fWmw",
+    "dictionary": {
+      "class_index": 4,
+      "class_name": "goose"
+    },
+    "datasets": [
+      "Animals"
+    ]
+  }
+]

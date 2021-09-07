@@ -1,0 +1,45 @@
+# This configuration file specifies the AI-Studio's Visual system options.
+
+experiment:
+  name: animals_dummy
+  description:
+  author: author@aiplabs.io
+  output_dir: ./demo/
+
+settings:
+  dgx:
+    num_gpus: 1
+
+steps:
+  train:
+    data:
+      input:
+        directory:
+          train_dir: /data/datasets/animals/cat-dog-goose-turtle-elephant/train
+          val_dir: /data/datasets/animals/cat-dog-goose-turtle-elephant/val
+          
+      data_processing:
+        target_size: 224
+        preprocess_func: mean_subtraction
+        subtract_dataset_mean: true
+        data_augmentation: true
+        class_weights: true
+        
+    settings:
+      architecture: mobilenet_v1
+      num_iterations: 1
+      num_workers: 1
+      max_queue_size: 1
+
+    hyperparameters:
+      batch_size: [1, 4]
+      loss_function: categorical_crossentropy
+      num_epochs: 1
+
+    optimizer:
+      SGD:
+        lr: [0.001, 0.003]
+        decay: 0.0000
+        momentum: 0.90
+        gamma: 0.5
+        scheduler_frequency: [2, 3, 4]

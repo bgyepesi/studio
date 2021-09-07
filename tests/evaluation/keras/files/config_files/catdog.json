@@ -1,0 +1,16 @@
+[
+  {
+    "class_index": 0,
+    "diagnosis_name": "cat",
+    "diagnosis_id": "cat",
+    "condition_name": ["cat"],
+    "condition_id": ["cat"]
+  },
+  {
+    "class_index": 1,
+    "diagnosis_name": "dog",
+    "diagnosis_id": "dog",
+    "condition_name": ["dog"],
+    "condition_id": ["dog"]
+  }
+]

@@ -1,0 +1,45 @@
+# This configuration file specifies the Studio's Auto Visual system options.
+experiment:
+  name: dermo_9_way_may_2021
+  author: Adria
+  output_dir: ./demo/
+settings:
+  dgx:
+    num_gpus: 1
+steps:
+  train:
+    data:
+      input:
+        train_class_manifest_path: /data/datasets/dermoscopic/9_way_may_2021/9_way_15_percent_validation/training.json
+        val_class_manifest_path: /data/datasets/dermoscopic/9_way_may_2021/9_way_15_percent_validation/validation.json
+      data_processing:
+        target_size: 300
+        batch_size: 64
+        preprocess_func: mean_std_normalization
+        class_weights: true
+        class_weight_smoothing: 1.06
+        # train_stats_pickle: ./demo/2021_06_03_02-02-11_Adria_dermo_9_way_may_2021_efficientnetb3/train/train_stats.pickle
+      train_data_augmentation:
+        custom_crop: True
+        random_crop_size: 0.9
+        rotation_range: 180
+        zoom_range: 0.1
+        horizontal_flip: True
+        vertical_flip: True
+    settings:
+      architecture: efficientnetb3
+      num_iterations: 1
+      num_workers: 16
+      max_queue_size: 128
+      track_sensitivity: true
+    hyperparameters:
+      num_epochs: 60
+      loss_function: categorical_crossentropy
+      dropout_rate: 0
+    optimizer:
+      SGD:
+        lr: 0.001
+        decay: 0.0000
+        momentum: 0.90
+        gamma: 0.5
+        scheduler_frequency: [15, 30, 45]

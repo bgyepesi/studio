@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+eggs/
+.eggs/
+*.egg-info/
+.pytest_cache
+
+# virtualenv
+.venv
+venv
+
+#.DS_Store
+*.DS_Store
+
+#.idea
+.idea
+.idea/*
+
+#.egg-info
+.egg-info/
+
+# iml and xml files
+*.iml
+*.xml
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Demo directory
+demo/*
+
+# Test fixtures
+tests/fixtures/dataset/
+tests/fixtures/model
+tests/evaluation/keras/tmp/fixtures/
+
+# h5 files
+*.h5

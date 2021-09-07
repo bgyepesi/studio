@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "filename": "cat/cat-1.jpg",
+    "class_probabilities": [
+      1.0,
+      0.0
+    ],
+    "crop": [150, 75, 200, 150]
+  },
+  {
+    "id": 1,
+    "filename": "cat/cat-4.jpg",
+    "class_probabilities": [
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "id": 2,
+    "filename": "dog/dog-2.jpg",
+    "class_probabilities": [
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "id": 3,
+    "filename": "dog/dog-4.jpg",
+    "class_probabilities": [
+      0.0,
+      1.0
+    ]
+  }
+]

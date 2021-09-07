@@ -1,0 +1,47 @@
+# This configuration file specifies the AI-Studio's Visual system options for testing the train step with lab manifests
+
+experiment:
+  name: catdog_test
+  author: author
+  output_dir: /tmp
+
+settings:
+  dgx:
+    num_gpus: 0
+
+steps:
+  data:
+    train:
+      lab:
+        manifest:
+          data_directory: tests/fixtures/dataset/animals/files
+          train_lab_manifest_path: tests/fixtures/data/animals_train_lab_manifest.json
+          val_lab_manifest_path: tests/fixtures/data/animals_val_lab_manifest.json
+
+  train:
+    data:
+      data_processing:
+        target_size: 224
+        batch_size: 1
+        preprocess_func: mean_subtraction
+        subtract_dataset_mean: true
+        class_weights_value: [1, 2, 3]
+
+    settings:
+      architecture: mobilenet_v1
+      num_iterations: 1
+      num_workers: 1
+      max_queue_size: 1
+
+    hyperparameters:
+      num_epochs: 1
+      loss_function: categorical_crossentropy
+      dropout_rate: 0
+
+    optimizer:
+      SGD:
+        lr: 0.001
+        decay: 0.0000
+        momentum: 0.90
+        gamma: 0.5
+        scheduler_frequency: [2, 3, 4]

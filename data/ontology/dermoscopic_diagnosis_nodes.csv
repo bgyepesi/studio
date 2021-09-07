@@ -1,0 +1,252 @@
+id,label
+AIP:0000010,ichthyosis vulgaris
+AIP:0000064,darier disease
+AIP:0000065,hailey-hailey disease
+AIP:0000119,scabies
+AIP:0000120,pediculosis
+AIP:0000122,atopic dermatitis
+AIP:0000127,prurigo nodularis
+AIP:0000128,lichen simplex chronicus
+AIP:0000178,dermatitis artefacta
+AIP:0000183,vitiligo
+AIP:0000204,piebaldism
+AIP:0000232,cutaneous pigmentary mosaicism
+AIP:0000240,pityriasis alba
+AIP:0000244,lichen sclerosus
+AIP:0000247,pityriasis versicolor
+AIP:0000248,leprosy
+AIP:0000253,secondary syphilis
+AIP:0000258,postinflammatory hyperpigmentation
+AIP:0000261,melasma
+AIP:0000269,pemphigus
+AIP:0000286,bullous pemphigoid
+AIP:0000287,gestational pemphigoid
+AIP:0000303,friction blisters
+AIP:0000312,erythema toxicum neonatorum
+AIP:0000315,grovers disease
+AIP:0000316,neonatal cephalic pustulosis
+AIP:0000317,cutaneous candidiasis
+AIP:0000324,incontinentia pigmenti
+AIP:0000331,pyoderma gangrenosum
+AIP:0000338,lentigines
+AIP:0000387,anogenital psoriasis
+AIP:0000396,actinic keratosis
+AIP:0000401,actinic chelitis
+AIP:0000404,parapsoriasis en plaques
+AIP:0000409,pityriasis lichenoides
+AIP:0000411,pityriasis rubra pilaris
+AIP:0000417,pityriasis rosea
+AIP:0000436,unspecified dermatitis
+AIP:0000445,lichen planus
+AIP:0000453,lichen planopilaris
+AIP:0000457,erythema multiforme
+AIP:0000461,mycosis fungoides
+AIP:0000469,nail lichen planus
+AIP:0000482,lichen striatus
+AIP:0000483,lichen nitidus
+AIP:0000497,eyelid eczema
+AIP:000049b,keratoderma
+AIP:0000501,dyshidrotic eczema
+AIP:0000506,seborrheic dermatitis
+AIP:0000510,asteototic eczema
+AIP:0000511,stasis dermatitis
+AIP:0000513,nummular dermatitis
+AIP:0000515,juvenile plantar dermatosis
+AIP:0000516,diaper dermatitis
+AIP:0000563,porphyria cutanea tarda
+AIP:0000675,disorder associated with multiple lentigines
+AIP:0000692,pustular psoriasis
+AIP:0000733,basal cell carcinoma
+AIP:0000745,keratoacanthoma
+AIP:0000775,seborrheic keratosis
+AIP:0000782,dermatosis papulosa nigra
+AIP:0000784,porokeratosis
+AIP:0000805,epidermal nevus
+AIP:0000811,acanthosis nigricans
+AIP:0000812,cyst
+AIP:0000815,milium
+AIP:0000844,dilated pore of winar
+AIP:0000861,nevus sebaceous
+AIP:0000884,sebaceous gland hyperplasia
+AIP:0000892,syringoma
+AIP:0000899,hiradenoma papilliferum
+AIP:0000923,benign melanocytic neoplasm
+AIP:0000924,ephelides
+AIP:0000970,melanoma
+AIP:0000993,telangiectasia
+AIP:0001029,hemangioma
+AIP:0001041,kaposi sarcoma
+AIP:0001076,neurofibroma
+AIP:0001110,skin tag
+AIP:0001111,cutaneous angiofibroma
+AIP:0001116,dermatofibroma
+AIP:0001135,dermatomyfibroma
+AIP:0001149,knuckle pads
+AIP:0001162,leiomyoma
+AIP:0001174,lipoma
+AIP:0001199,urticaria pigmentosa
+AIP:0001201,solitary mastocytoma
+AIP:0001267,erythema nodosum
+AIP:0001341,contact dermatitis
+AIP:0001396,erysipelas
+AIP:0001398,cellulitis
+AIP:0001406,phototoxic plant reaction dermatitis
+AIP:0001426,non-cicatricial alopecia
+AIP:0001430,psoriasis of the scalp
+AIP:0001433,cicatricial alopecia
+AIP:0001437,discoid lupus erythematosus
+AIP:0001478,hypertrichosis
+AIP:0001505,hair collar sign
+AIP:0001508,hirsutism
+AIP:0001538,nail disorder
+AIP:0001548,striate leukonychia
+AIP:0001567,purpura fulminans
+AIP:0001579,dermatitis herpetiformis
+AIP:0001580,epidermolysis bullosa
+AIP:0001647,pyogenic granuloma
+AIP:0001666,fordyce granules
+AIP:0001667,geographic tongue
+AIP:0001668,fissured tongue
+AIP:0001669,hairy tongue
+AIP:0001682,oral fibroma
+AIP:0001690,recurrent aphthous stomatitis
+AIP:0001711,mucocele
+AIP:0001766,pearly penile papules
+AIP:0001791,pseudoxanthoma elasticum
+AIP:0001807,kyrle disease
+AIP:0001838,hypertrophic scarring
+AIP:0001839,keloid scarring
+AIP:0001840,dupuytrens contracture
+AIP:0001864,striae
+AIP:0001873,acute cutaneous lupus erythematosus
+AIP:0001875,subacute cutaneous lupus erythematosus
+AIP:0001883,dermatomyositis
+AIP:0001902,scleroderma or related disorder
+AIP:0001917,morphea
+AIP:0001942,rheumatoid nodule
+AIP:0001950,vascular birthmark
+AIP:0002006,ulcer
+AIP:0002028,livedo reticularis
+AIP:0002066,impetigo
+AIP:0002067,bullous impetigo
+AIP:0002079,abscess
+AIP:0002087,scarlet fever
+AIP:0002104,erythrasma
+AIP:0002105,pitted keratolysis
+AIP:0002126,ecthyma gangrenosum
+AIP:0002163,lyme disease
+AIP:0002259,tinea corporis
+AIP:0002260,tinea cruris
+AIP:0002261,tinea manuum
+AIP:0002263,tinea faciei
+AIP:0002264,tinea capitis
+AIP:0002265,tinea pedis
+AIP:0002266,tinea unguium
+AIP:0002308,molluscum contagiosum
+AIP:0002349,condylomata acuminata
+AIP:0002365,oral herpes (cold sore)
+AIP:0002366,herpes gladiatorum
+AIP:0002367,genital herpes
+AIP:0002373,chickenpox (varicella-zoster)
+AIP:0002374,shingles (herpes zoster)
+AIP:0002380,roseola infantum
+AIP:0002385,hand-foot-and-mouth disease
+AIP:0002388,measles
+AIP:0002389,rubella
+AIP:0002391,erythema infectiosum
+AIP:0002395,gianotti-crosti syndrome
+AIP:0002454,diffuse cutaneous leishmaniasis
+AIP:0002460,cutaneous leishmaniasis
+AIP:0002461,mucocutaneous leishmaniasis
+AIP:0002471,acne vulgaris
+AIP:0002472,infantile acne
+AIP:0002475,acneiform eruption
+AIP:0002476,cystic acne
+AIP:0002496,ocular rosacea
+AIP:0002497,rhinophyma
+AIP:0002517,periorificial dermatitis
+AIP:0002523,folliculitis
+AIP:0002550,hidradenitis suppurativa
+AIP:0002557,hyperhidrosis
+AIP:0002581,miliaria
+AIP:0002593,keratolysis exfoliativa
+AIP:0002673,gout
+AIP:0002723,calciphylaxis
+AIP:0002741,carotenemia
+AIP:0002788,cutaneous larva migrans
+AIP:0002811,skin disorder caused by arthropod bites
+AIP:0002864,sunburn
+AIP:0002865,dermatoheliosis
+AIP:0002872,polymorphous light eruption
+AIP:0002887,solar elastosis
+AIP:0002888,poikiloderma of civatte
+AIP:0002898,thermal burn
+AIP:0002903,erythema ab igne
+AIP:0002912,pernio
+AIP:0002936,chondrodermatitis nodularis helicis
+AIP:0002940,weathering nodules of the ear
+AIP:0002959,lip lickers dermatitis
+AIP:0003029,xanthoma
+AIP:0003043,sarcoidosis
+AIP:0003044,granuloma annulare
+AIP:0003061,necrobiosis lipodica
+AIP:0003069,pseudofolliculitis barbae
+AIP:0003070,urticaria
+AIP:0003076,urticarial vasculitis
+AIP:0003130,erythema annulare centrifugum
+AIP:0003131,erythema marginatum
+AIP:0003161,pigmented purpuric eruption
+AIP:0003210,malignant atrophic papulosis
+AIP:0003220,cutaneous small vessel vasculitis
+AIP:0003255,granuloma faciale
+AIP:0003263,sweets syndrome
+AIP:0003282,polymorphic eruption of pregnancy
+AIP:0003288,ichthyosis
+AIP:0003512,chronic plaque psoriasis
+AIP:0003513,guttate psoriasis
+AIP:0003517,wasp-bee sting
+AIP:0003519,hordeolum
+AIP:0003522,other cutaneous lupus
+AIP:0003526,drug eruption
+AIP:0003527,severe cutaneous adverse reaction
+AIP:0003528,acne variant
+AIP:0003540,ingrown nail
+AIP:0003601,squamous cell carcinoma
+AIP:0003699,rosacea (not ocular rosacea or phymatous rosacea)
+AIP:0011114,cellulite
+AIP:0011506,dandruff
+AIP:0012063,infected piercing
+AIP:0012300,conjunctivitis
+AIP:0012890,splinter
+AIP:0012913,pruned skin
+AIP:0012929,laceration
+AIP:0022203,oral candidiasis
+AIP:0022208,paronychia
+AIP:0022209,corns and calluses
+AIP:0022217,bruise
+AIP:0022225,gangrene
+AIP:0100002,nail psoriasis
+AIP:0100003,erythrodermic psoriasis
+AIP:0100004,flexural psoriasis
+AIP:0100013,pseudofolliculitis
+AIP:0100021,desquamation
+AIP:0100037,cheilitis
+AIP:0100047,warts nonspecific
+AIP:0100060,acne scarring
+AIP:0100063,tinea incognito
+AIP:0100076,cutaneous lymphoma
+AIP:0100078,herpetic gingivostomatitis
+AIP:0100107,calcinosis cutis
+AIP:0100126,port wine stain of skin
+AIP:0100127,salmon patch
+AIP:0100152,keratosis pilaris
+AIP:0100154,radiodermatitis
+AIP:0100165,idiopathic guttate hypomelanosis
+AIP:0100171,median nail dystrophy
+AIP:0100181,chalazion
+AIP:0100223,solar comedones
+AIP:0100236,torus palantine
+AIP:0100249,hang nail
+AIP:0100255,palmoplantar-psoriasis
+AIP:0101021,intertrigo
+AIP:0122200,surgical scar

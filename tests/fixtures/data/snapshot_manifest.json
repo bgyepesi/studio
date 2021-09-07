@@ -1,0 +1,84 @@
+[
+  {
+    "id": 2988283,
+    "width": 472,
+    "height": 472,
+    "tags": [
+      "AIP:0002491",
+      "name:childhood-flexural-comedones"
+    ],
+    "timestamp": "2018-10-27 03:33:23 UTC",
+    "filename": "image2988283-2988283.jpg",
+    "storage_key": "asewrnwej7"
+  },
+  {
+    "id": 2988285,
+    "width": 480,
+    "height": 480,
+    "tags": [
+      "AIP:0002491",
+      "name:childhood-flexural-comedones"
+    ],
+    "timestamp": "2018-10-27 03:33:25 UTC",
+    "filename": "image2988285-2988285.jpg",
+    "storage_key": "asewrnwej6"
+  },
+  {
+    "id": 2947744,
+    "width": 378,
+    "height": 378,
+    "tags": [
+      "AIP:0002478",
+      "name:acne-fulminans"
+    ],
+    "timestamp": "2018-10-24 21:18:44 UTC",
+    "filename": "image2947744-2947744.jpg",
+    "storage_key": "asewrnwej5"
+  },
+  {
+    "id": 2947746,
+    "width": 345,
+    "height": 345,
+    "tags": [
+      "AIP:0002478",
+      "name:acne-fulminans"
+    ],
+    "timestamp": "2018-10-24 21:18:47 UTC",
+    "filename": "image2947746-2947746.jpg",
+    "storage_key": "asewrnwej4"
+  },
+  {
+    "id": 2695206,
+    "width": 517,
+    "height": 517,
+    "tags": [
+      "AIP:0002471",
+      "name:acne-vulgaris"
+    ],
+    "timestamp": "2018-10-10 13:29:35 UTC",
+    "filename": "image2695206-2695206.jpg",
+    "storage_key": "asewrnwe3"
+  },
+  {
+    "id": 2695205,
+    "width": 517,
+    "height": 517,
+    "tags": [
+      "name:acne-vulgaris"
+    ],
+    "timestamp": "2018-10-10 13:29:35 UTC",
+    "filename": "image2695206-2695205.jpg",
+    "storage_key": "asewrnwe2"
+  },
+  {
+    "id": 2695204,
+    "width": 517,
+    "height": 517,
+    "tags": [
+      "name:acne-fulminans"
+    ],
+    "timestamp": "2018-10-10 13:29:35 UTC",
+    "filename": "image2695206-2695204.jpg",
+    "storage_key": "asewrnwe1"
+  }
+]

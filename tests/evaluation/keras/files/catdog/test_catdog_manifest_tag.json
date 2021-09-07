@@ -1,0 +1,84 @@
+[
+  {
+    "id": 0,
+    "filename": "cat/cat-1.jpg",
+    "class_probabilities": [
+      1.0,
+      0.0
+    ],
+    "crop": [150, 75, 200, 150],
+    "tags":["case-id:cat-case1"]
+  },
+  {
+    "id": 1,
+    "filename": "cat/cat-4.jpg",
+    "class_probabilities": [
+      1.0,
+      0.0
+    ],
+    "tags":["case-id:cat-case1"]
+  },
+  {
+    "id": 2,
+    "filename": "dog/dog-2.jpg",
+    "class_probabilities": [
+      0.0,
+      1.0
+    ],
+    "tags":["case-id:dog-case1"]
+  },
+  {
+    "id": 3,
+    "filename": "dog/dog-4.jpg",
+    "class_probabilities": [
+      0.0,
+      1.0
+    ],
+    "tags":["case-id:dog-case1"]
+  },
+  {
+    "id": 4,
+    "filename": "cat/cat-2.jpg",
+    "class_probabilities": [
+      1.0,
+      0.0
+    ],
+    "tags":["case-id:cat-case2"]
+  },
+  {
+    "id": 5,
+    "filename": "dog/dog-6.jpg",
+    "class_probabilities": [
+      0.0,
+      1.0
+    ],
+    "tags":["case-id:dog-case2"]
+  },
+  {
+    "id": 6,
+    "filename": "cat/cat-3.jpg",
+    "class_probabilities": [
+      1.0,
+      0.0
+    ],
+    "tags":["dataset:testset"]
+  },
+  {
+    "id": 7,
+    "filename": "dog/dog-3.jpg",
+    "class_probabilities": [
+      0.0,
+      1.0
+    ],
+    "tags":["case-id:dog-case3"]
+  },
+  {
+    "id": 8,
+    "filename": "dog/dog-5.jpg",
+    "class_probabilities": [
+      1.0,
+      0.0
+    ],
+    "tags":["case-id:dog-case3"]
+  }
+]

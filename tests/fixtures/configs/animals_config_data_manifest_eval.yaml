@@ -1,0 +1,30 @@
+# This configuration file specifies the AI-Studio's Visual system options for testing the train step with lab manifests
+
+experiment:
+  name: catdog_test
+  author: author
+  output_dir: /tmp
+
+settings:
+  dgx:
+    num_gpus: 0
+
+steps:
+  data:
+    eval:
+      lab:
+        manifest:
+          data_directory: tests/fixtures/dataset/animals/files
+          test_lab_manifest_path: tests/fixtures/data/animals_test_lab_manifest.json
+
+  eval:
+    single:
+      model_path: tests/fixtures/model/animals/catdog/catdog-mobilenet.hdf5
+      combination_mode: arithmetic
+      top_k: 1
+      batch_size: 1
+      custom_crop: True
+      data_augmentation: {'crop_original': 'center_crop'}
+      confusion_matrix: True
+      show_confusion_matrix_text: True
+      verbose: True

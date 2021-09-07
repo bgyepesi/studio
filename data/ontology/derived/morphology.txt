@@ -1,0 +1,70 @@
+root
+├── abscess
+│   ├── sinus tract
+│   ╰── skin abscess
+├── alopecia
+│   ╰── alopecia type
+├── atrophy
+│   ├── atrophic
+│   ├── atrophic scar
+│   ├── pits
+│   ├── sclerotic skin lesion
+│   ╰── striae
+├── erythema
+│   ├── blanching macule
+│   ├── blanching patch
+│   ├── edema
+│   ├── erythema type
+│   ├── erythroderma
+│   ├── morbiliform rash
+│   ├── reticular - netlike
+│   ├── targetoid
+│   ╰── telangiectasia
+├── lesion with scale
+│   ├── desquamation
+│   ├── filiform
+│   ├── papillomatous
+│   ├── scaly papule
+│   ├── scaly plaque - ill defined
+│   ╰── scaly plaque - well defined
+├── macule
+│   ├── blanching macule
+│   ├── depigmented macule
+│   ├── hyperpigmented macule
+│   ╰── hypopigmented macule
+├── nodule
+│   ├── cyst
+│   ├── subcutanous nodule
+│   ├── tumour
+│   ╰── smooth nodule
+├── papule
+│   ├── scaly papule
+│   ├── hemorrhagic papule
+│   ╰── smooth papule
+├── patch
+│   ├── depigmented patch
+│   ├── hyperpigmented patch
+│   ╰── hypopigmented patch
+├── purpura/petechiae
+│   ├── ecchymosis
+│   ├── eschar
+│   ├── hemorrhagic crust
+│   ├── hemorrhagic papule
+│   ├── palpable purpura
+│   ╰── petechiae
+├── smooth lesion
+│   ├── multicoloured plaque
+│   ├── sclerotic skin lesion
+│   ├── smooth nodule
+│   ├── smooth papule
+│   ├── smooth plaque - annular/well defined
+│   ╰── smooth plaque - ill defined
+╰── vesiculobullous
+    ├── bullae
+    ├── crust
+    ├── eschar
+    ├── plaque with ulcer
+    ├── pustule
+    ├── skin erosion
+    ├── skin ulcer
+    ╰── vesicle

@@ -1,0 +1,13 @@
+id: 'First Gate'
+model_path: '/data/models/first_gate_march/xception/model_max_acc_1gpu.h5'
+model_map_json: 'example/first_gate_model_map.json'
+squash_classes:
+  - [0, 1]
+  - [2]
+  - [3]
+threshold:
+  threshold_class: 2
+  threshold_prob: 0.1
+  trigger_classes: [1]
+pass_through: [2]
+batch_size: 32

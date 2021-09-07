@@ -1,0 +1,4 @@
+id: '133-way'
+ensemble_models_dir: '/data/models/133_way_april_2019/ensemble'
+model_map_json: 'example/133_way_min_150_images_april_2019_model_map_diagnosis_nodes.json'
+combination_mode: 'arithmetic'

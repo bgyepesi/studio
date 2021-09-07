@@ -1,0 +1,44 @@
+[
+    {
+        "class_index": 0,
+        "diagnosis_id": "AIP:0100060",
+        "condition_id": ["AIP:0100060"],
+        "diagnosis_name": "acne scarring"
+    },
+    {
+        "class_index": 1,
+        "diagnosis_id": "AIP:0000733",
+        "condition_id": ["AIP:0000733"],
+        "diagnosis_name": "basal cell carcinoma"
+    },
+    {
+        "class_index": 2,
+        "diagnosis_id": "AIP:0002471",
+        "condition_id": ["AIP:0002471"],
+        "diagnosis_name": "acne vulgaris"
+    },
+    {
+        "class_index": 3,
+        "diagnosis_id": "AIP:0000734",
+        "condition_id": ["AIP:0000734"],
+        "diagnosis_name": "squamous cell carcinoma in situ"
+    },
+    {
+        "class_index": 4,
+        "diagnosis_id": "AIP:0000396",
+        "condition_id": ["AIP:0000396"],
+        "diagnosis_name": "actinic keratosis"
+    },
+    {
+        "class_index": 5,
+        "diagnosis_id": "AIP:0001839",
+        "condition_id": ["AIP:0001839"],
+        "diagnosis_name": "keloid scarring"
+    },
+    {
+        "class_index": 6,
+        "diagnosis_id": "AIP:0000303",
+        "condition_id": ["AIP:0000303"],
+        "diagnosis_name": "friction blisters"
+    }
+]

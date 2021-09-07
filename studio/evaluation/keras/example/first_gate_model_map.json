@@ -1,0 +1,34 @@
+[
+  {
+    "class_index": 0,
+    "condition_id": ["first-gate:not-skin"],
+    "condition_name": ["not skin"],
+    "diagnosis_id": "first-gate:not-skin",
+    "diagnosis_name": "not skin",
+    "malignancy": "benign"
+  },
+  {
+    "class_index": 1,
+    "condition_id": ["first-gate:tattoo"],
+    "condition_name": ["tattoo"],
+    "diagnosis_id": "first-gate:tattoo",
+    "diagnosis_name": "tattoo",
+    "malignancy": "benign"
+  },
+  {
+    "class_index": 2,
+    "condition_id": ["first-gate:clear-skin"],
+    "condition_name": ["clear skin"],
+    "diagnosis_id": "first-gate:clear-skin",
+    "diagnosis_name": "clear skin",
+    "malignancy": "benign"
+  },
+  {
+    "class_index": 3,
+    "condition_id": ["first-gate:unhealthy-skin"],
+    "condition_name": ["unhealthy skin"],
+    "diagnosis_id": "first-gate:unhealthy-skin",
+    "diagnosis_name": "unhealthy skin",
+    "malignancy": "benign"
+  }
+]

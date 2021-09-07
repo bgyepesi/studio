@@ -1,0 +1,350 @@
+{
+  "body_temperature": {
+    "value": [
+      "not_fever",
+      "fever"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "average_size": {
+    "value": [
+      "51_to_150",
+      "1_to_5",
+      ">150",
+      "6_to_10",
+      "11_to_20",
+      "21_to_50"
+    ],
+    "type": "general",
+    "multiple_answer": false
+  },
+  "duration": {
+    "value": [
+      "less_than_2_days",
+      "2_days_to_1_week",
+      "1_week_to_1_month",
+      "1_month_to_3_months",
+      "3_months_to_1_year",
+      "1_year_to_several_years",
+      "from_birth"
+    ],
+    "type": "general",
+    "multiple_answer": false
+  },
+  "lesion_extent": {
+    "value": [
+      "generalized",
+      "regional",
+      "singular"
+    ],
+    "multiple_answer": false
+  },
+  "type_over_1_cm": {
+    "value": [
+      "patch",
+      "plaque",
+      "tumour",
+      "bulla",
+      "abscess",
+      "cyst"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "more_than_10_lesions": {
+    "value": [
+      true,
+      false
+    ],
+    "type": "general",
+    "multiple_answer": false
+  },
+  "characteristic_shape": {
+    "value": [
+      "round_oval",
+      "irregular"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "gender": {
+    "value": [
+      "male",
+      "female"
+    ],
+    "type": "general",
+    "multiple_answer": false
+  },
+  "type_under_1_cm": {
+    "value": ["macule", "papule", "nodule", "vesicle", "pustule", "telangiectasia"],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "body_location": {
+    "value": [
+      "eyebrow",
+      "forehead",
+      "margin_of_upper_eyelid",
+      "upper_eyelid",
+      "between_eyebrows",
+      "lower_eyelid",
+      "white_of_eye",
+      "nostril",
+      "outer_nose",
+      "inner_cheek",
+      "margin_of_tongue",
+      "centre_of_tongue",
+      "inner_lip",
+      "back_of_mouth",
+      "tonsillar_region",
+      "gums",
+      "sublingual_region",
+      "hard_palate",
+      "hairline",
+      "hairline_forehead",
+      "hairline_back_head",
+      "scalp",
+      "base_of_hair_follicles_scalp",
+      "side_of_hair_behind_ear",
+      "back_surface_of_ear",
+      "front_surface_of_ear",
+      "ear_canal",
+      "cheek",
+      "upper_lip_red_portion",
+      "lower_lip_red_portion",
+      "head",
+      "abdomen",
+      "lower_back",
+      "hand",
+      "upper_back",
+      "upper_lip_non_red_portion",
+      "chin",
+      "base_of_hair_follicles_face",
+      "neck",
+      "thorax",
+      "breast_or_nipple",
+      "axilla",
+      "arm",
+      "upper_arm",
+      "anterior_elbow_region",
+      "posterior_elbow_region",
+      "posterior_lower_arm",
+      "anterior_lower_arm",
+      "anterior_wrist",
+      "posterior_wrist",
+      "hand_dorsum",
+      "hand_palmar",
+      "finger_palmar",
+      "finger_dorsum",
+      "between_fingers",
+      "perineum",
+      "tip_of_penis",
+      "shaft_of_penis",
+      "foreskin",
+      "scrotum",
+      "anus",
+      "base_of_hair_follicles_perineum",
+      "labia",
+      "vagina",
+      "groin",
+      "leg",
+      "posterior_thigh",
+      "posterior_knee_area",
+      "posterior_shin_calf",
+      "anterior_thigh",
+      "anterior_knee_area",
+      "anterior_shin_calf",
+      "foot_dorsum",
+      "foot_sole",
+      "toe_sole",
+      "toe_dorsum",
+      "finger_nail_pitting",
+      "finger_nail_splinter_hemorrhage",
+      "finger_nail_transverse_lines",
+      "finger_nail_longitudinal_lines",
+      "finger_nail_body",
+      "finger_nail_lateral_fold",
+      "finger_nail_cuticle",
+      "finger_nail_thickening",
+      "toe_nail_pitting",
+      "toe_nail_splinter_hemorrhage",
+      "toe_nail_transverse_lines",
+      "toe_nail_longitudinal_lines",
+      "toe_nail_body",
+      "toe_nail_lateral_fold",
+      "toe_nail_cuticle",
+      "toe_nail_thickening",
+      "foot",
+      "toe_nail",
+      "mucous_membranes",
+      "ear",
+      "between_toes",
+      "face",
+      "elbow",
+      "eye",
+      "lower_arm",
+      "wrist",
+      "posterior_upper_arm",
+      "anterior_upper_arm",
+      "finger_nail",
+      "toe",
+      "finger",
+      "mouth",
+      "shin_calf",
+      "thigh",
+      "upper_torso",
+      "knee",
+      "body",
+      "lower_torso"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "characteristic_borders": {
+    "value": [
+      "distinct",
+      "indistinct",
+      "elevated",
+      "annular",
+      "vesicular",
+      "undermined",
+      "pearly",
+      "migrating_border"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "characteristic_surface": {
+    "value": [
+      "depressed",
+      "flat-topped",
+      "dome-shape",
+      "umbilicated",
+      "accuminate_pointed",
+      "hyperkeratotic",
+      "follicular",
+      "shiny-waxy"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "characteristic_tactile": {
+    "value": [
+      "hard",
+      "soft",
+      "blanchable"
+    ],
+    "multiple_answer": true
+  },
+  "type_sensations": {
+    "value": [
+      "tender",
+      "painful",
+      "itching",
+      "burning",
+      "hypoesthesia",
+      "photosensitive"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "colour": {
+    "value": [
+      "no_discolouration",
+      "yellow",
+      "light_brown",
+      "dark_brown",
+      "pink",
+      "red",
+      "green",
+      "blue",
+      "purple",
+      "hyperpigmented",
+      "black",
+      "white",
+      "depigmented",
+      "hypopigmented"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "other_symptoms": {
+    "value": [
+      "diabetes",
+      "seasonal",
+      "pregnancy",
+      "insect_bite",
+      "medication_history",
+      "constitutional_symptoms",
+      "hot_to_the_touch",
+      "recent_exposure_to_irritants",
+      "recent_exposure_to_chicken_pox"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "type_secondary": {
+    "value": [
+      "excoriated",
+      "scaling-flaking",
+      "purulent",
+      "bleeding",
+      "exuding_fluid",
+      "ulcerated",
+      "cracking-fissuring",
+      "atrophy",
+      "scarring",
+      "horny_plug",
+      "lichenified",
+      "peduncated"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "disease_course": {
+    "value": [
+      "never_lesion_free_persist_same_position",
+      "never_lesion_free_lesions_appear_different_places",
+      "lesions_fully_remit_exacerbate_same_position",
+      "lesions_fully_remit_exacerbate_different_positions",
+      "lesions_incompletely_remit_exacerbate_same_positions",
+      "lesions_incompletely_remit_then_exacerbate_different_position"
+    ],
+    "type": "general",
+    "multiple_answer": false
+  },
+  "characteristic_hair": {
+    "value": [
+      "hair_loss",
+      "hair_broken",
+      "hair_excess"
+    ],
+    "type": "general",
+    "multiple_answer": true
+  },
+  "age": {
+    "value": [
+      "infants_<2",
+      "children_2_12",
+      "teenagers_13_19",
+      "adults_20_29",
+      "adults_30_39",
+      "adults_40_49",
+      "adults_50_59",
+      "seniors_60+"
+    ],
+    "type": "general",
+    "multiple_answer": false
+  },
+  "characteristic_groupings": {
+    "value": [
+      "linear",
+      "grouped",
+      "coalesce",
+      "reticulated"
+    ],
+    "type": "general",
+    "multiple_answer": false
+  }
+}

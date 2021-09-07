@@ -1,0 +1,280 @@
+{
+  "edges": [
+    {
+      "from": "root",
+      "to": "abscess"
+    },
+    {
+      "from": "root",
+      "to": "alopecia"
+    },
+    {
+      "from": "root",
+      "to": "atrophy"
+    },
+    {
+      "from": "root",
+      "to": "erythema"
+    },
+    {
+      "from": "root",
+      "to": "lesion with scale"
+    },
+    {
+      "from": "root",
+      "to": "macule"
+    },
+    {
+      "from": "root",
+      "to": "nodule"
+    },
+    {
+      "from": "root",
+      "to": "papule"
+    },
+    {
+      "from": "root",
+      "to": "patch"
+    },
+    {
+      "from": "root",
+      "to": "purpura/petechiae"
+    },
+    {
+      "from": "root",
+      "to": "smooth lesion"
+    },
+    {
+      "from": "root",
+      "to": "vesiculobullous"
+    },
+    {
+      "from": "abscess",
+      "to": "sinus tract"
+    },
+    {
+      "from": "abscess",
+      "to": "skin abscess"
+    },
+    {
+      "from": "alopecia",
+      "to": "alopecia type"
+    },
+    {
+      "from": "atrophy",
+      "to": "atrophic"
+    },
+    {
+      "from": "atrophy",
+      "to": "atrophic scar"
+    },
+    {
+      "from": "atrophy",
+      "to": "pits"
+    },
+    {
+      "from": "atrophy",
+      "to": "sclerotic skin lesion"
+    },
+    {
+      "from": "atrophy",
+      "to": "striae"
+    },
+    {
+      "from": "erythema",
+      "to": "blanching macule"
+    },
+    {
+      "from": "macule",
+      "to": "blanching macule"
+    },
+    {
+      "from": "erythema",
+      "to": "blanching patch"
+    },
+    {
+      "from": "erythema",
+      "to": "edema"
+    },
+    {
+      "from": "erythema",
+      "to": "erythema type"
+    },
+    {
+      "from": "erythema",
+      "to": "erythroderma"
+    },
+    {
+      "from": "erythema",
+      "to": "morbiliform rash"
+    },
+    {
+      "from": "erythema",
+      "to": "reticular - netlike"
+    },
+    {
+      "from": "erythema",
+      "to": "targetoid"
+    },
+    {
+      "from": "erythema",
+      "to": "telangiectasia"
+    },
+    {
+      "from": "lesion with scale",
+      "to": "desquamation"
+    },
+    {
+      "from": "lesion with scale",
+      "to": "filiform"
+    },
+    {
+      "from": "lesion with scale",
+      "to": "papillomatous"
+    },
+    {
+      "from": "lesion with scale",
+      "to": "scaly papule"
+    },
+    {
+      "from": "lesion with scale",
+      "to": "scaly plaque - ill defined"
+    },
+    {
+      "from": "lesion with scale",
+      "to": "scaly plaque - well defined"
+    },
+    {
+      "from": "macule",
+      "to": "depigmented macule"
+    },
+    {
+      "from": "macule",
+      "to": "hyperpigmented macule"
+    },
+    {
+      "from": "macule",
+      "to": "hypopigmented macule"
+    },
+    {
+      "from": "nodule",
+      "to": "cyst"
+    },
+    {
+      "from": "nodule",
+      "to": "subcutanous nodule"
+    },
+    {
+      "from": "nodule",
+      "to": "tumour"
+    },
+    {
+      "from": "papule",
+      "to": "scaly papule"
+    },
+    {
+      "from": "papule",
+      "to": "hemorrhagic papule"
+    },
+    {
+      "from": "papule",
+      "to": "smooth papule"
+    },
+    {
+      "from": "patch",
+      "to": "depigmented patch"
+    },
+    {
+      "from": "patch",
+      "to": "hyperpigmented patch"
+    },
+    {
+      "from": "patch",
+      "to": "hypopigmented patch"
+    },
+    {
+      "from": "purpura/petechiae",
+      "to": "ecchymosis"
+    },
+    {
+      "from": "purpura/petechiae",
+      "to": "eschar"
+    },
+    {
+      "from": "purpura/petechiae",
+      "to": "hemorrhagic crust"
+    },
+    {
+      "from": "purpura/petechiae",
+      "to": "hemorrhagic papule"
+    },
+    {
+      "from": "purpura/petechiae",
+      "to": "palpable purpura"
+    },
+    {
+      "from": "purpura/petechiae",
+      "to": "petechiae"
+    },
+    {
+      "from": "smooth lesion",
+      "to": "multicoloured plaque"
+    },
+    {
+      "from": "smooth lesion",
+      "to": "sclerotic skin lesion"
+    },
+    {
+      "from": "smooth lesion",
+      "to": "smooth nodule"
+    },
+    {
+      "from": "nodule",
+      "to": "smooth nodule"
+    },
+    {
+      "from": "smooth lesion",
+      "to": "smooth papule"
+    },
+    {
+      "from": "smooth lesion",
+      "to": "smooth plaque - annular/well defined"
+    },
+    {
+      "from": "smooth lesion",
+      "to": "smooth plaque - ill defined"
+    },
+    {
+      "from": "vesiculobullous",
+      "to": "bullae"
+    },
+    {
+      "from": "vesiculobullous",
+      "to": "crust"
+    },
+    {
+      "from": "vesiculobullous",
+      "to": "eschar"
+    },
+    {
+      "from": "vesiculobullous",
+      "to": "plaque with ulcer"
+    },
+    {
+      "from": "vesiculobullous",
+      "to": "pustule"
+    },
+    {
+      "from": "vesiculobullous",
+      "to": "skin erosion"
+    },
+    {
+      "from": "vesiculobullous",
+      "to": "skin ulcer"
+    },
+    {
+      "from": "vesiculobullous",
+      "to": "vesicle"
+    }
+  ]
+}
